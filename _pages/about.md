@@ -58,14 +58,16 @@ Hi! I am a second year PhD student studying at [Tsinghua University](https://www
 (* denotes equal/core contribution, † denotes project lead)
 
 - [MiniCPM-V 4.5: Cooking Efficient MLLMs via Architecture, Data, and Training Recipe](https://arxiv.org/abs/2509.18154)<br>
-  MiniCPM-V Team [[GitHub 22k+ Stars]](https://github.com/OpenBMB/MiniCPM-V)
+  MiniCPM-V Team <br>
+  *Preprint* [[GitHub 22k+ Stars]](https://github.com/OpenBMB/MiniCPM-V)
 - [A Survey of Reinforcement Learning for Large Reasoning Models](https://arxiv.org/abs/2509.08827)<br>
   Kaiyan Zhang\*†, Yuxin Zuo\*†, **Bingxiang He**\*, Youbang Sun\*, Runze Liu\*, Che Jiang\*, Yuchen Fan\*, Kai Tian\*, Guoli Jia\*, Pengfei Li\*, Yu Fu\*, Xingtai Lv\*, Yuchen Zhang\*, Sihang Zeng\*, Shang Qu\*, Haozhan Li\*, Shijie Wang\*, Yuru Wang\*, Xinwei Long, Fangfu Liu, Xiang Xu, Jiaze Ma, Xuekai Zhu, Ermo Hua, Yihao Liu, Zonglin Li, Huayu Chen, Xiaoye Qu, Yafu Li, Weize Chen, Zhenzhao Yuan, Junqi Gao, Dong Li, Zhiyuan Ma, Ganqu Cui, Zhiyuan Liu, Biqing Qi, Ning Ding, Bowen Zhou<br>
-  [[GitHub 1.4k+ Stars]](https://github.com/TsinghuaC3I/Awesome-RL-for-LRMs)
+  *Preprint* [[GitHub 1.4k+ Stars]](https://github.com/TsinghuaC3I/Awesome-RL-for-LRMs)
 - [AIR: A Systematic Analysis of Annotations, Instructions, and Response Pairs in Preference Dataset](https://arxiv.org/abs/2504.03612)<br>
-  **Bingxiang He***, Wenbin Zhang*, Jiaxi Song, Cheng Qian, Zixuan Fu, Bowen Sun, Ning Ding, Haiwen Hong, Longtao Huang, Hui Xue, Ganqu Cui, Wanxiang Che, Zhiyuan Liu, Maosong Sun
+  **Bingxiang He***, Wenbin Zhang*, Jiaxi Song, Cheng Qian, Zixuan Fu, Bowen Sun, Ning Ding, Haiwen Hong, Longtao Huang, Hui Xue, Ganqu Cui, Wanxiang Che, Zhiyuan Liu, Maosong Sun <br>
+  *COLM 2025* 
 - [MiniCPM4: Ultra-Efficient LLMs on End Devices](https://arxiv.org/abs/2506.07900)<br>
-  MiniCPM Team [[GitHub 8.4k+ Stars](https://github.com/openbmb/minicpm)]
+  *Preprint* MiniCPM Team [[GitHub 8.4k+ Stars](https://github.com/openbmb/minicpm)]
 - [Process Reinforcement through Implicit Rewards](https://arxiv.org/abs/2502.01456)<br>
   Ganqu Cui\*, Lifan Yuan\*, Zefan Wang\*, Hanbin Wang\*, Wendi Li\*, **Bingxiang He\***, Yuchen Fan\*, Tianyu Yu\*, Qixin Xu\*, Weize Chen, Jiarui Yuan, Huayu Chen, Kaiyan Zhang, Xingtai Lv, Shuo Wang, Yuan Yao, Xu Han, Hao Peng, Yu Cheng, Zhiyuan Liu, Maosong Sun, Bowen Zhou, Ning Ding<br>
   *ICLR 2026 Submission* [[GitHub 1.7k+ Stars](https://github.com/PRIME-RL/PRIME)]
