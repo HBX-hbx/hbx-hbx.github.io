@@ -27,6 +27,8 @@ Hi! I am a second year PhD student studying at [Tsinghua University](https://www
 <span class='anchor' id='news'></span>
 
 # 🌟 News
+- *2026.01*: &nbsp;🎉 [Unsupervised RLVR](https://openreview.net/forum?id=VesLZukY5E) accepted by ICLR 2026, we are working on the final revision!
+- *2025.12*: &nbsp;🔥 [JustRL](https://arxiv.org/abs/2512.16649) released at arXiv [[GitHub]](https://github.com/thunlp/JustRL)
 - *2025.09*: &nbsp;🎉 [MiniCPM-V 4.5](https://arxiv.org/abs/2509.18154) released at arXiv [[GitHub]](https://github.com/OpenBMB/MiniCPM-V)
 - *2025.09*: &nbsp;🔥 [Survey of RL for LRM](https://arxiv.org/abs/2509.08827) released at arXiv [[GitHub]](https://github.com/TsinghuaC3I/Awesome-RL-for-LRMs)
 - *2025.07*: &nbsp;🎉 [AIR](https://arxiv.org/abs/2504.03612) accepted by COLM 2025
@@ -57,6 +59,11 @@ Hi! I am a second year PhD student studying at [Tsinghua University](https://www
 
 (* denotes equal/core contribution, <sup>†</sup> denotes project lead)
 
+- [How Far Can Unsupervised RLVR Scale LLM Training?](https://openreview.net/forum?id=VesLZukY5E)<br>
+  *ICLR 2026*
+- [JustRL: Scaling a 1.5B LLM with a Simple RL Recipe](https://arxiv.org/abs/2512.16649)<br>
+  **Bingxiang He**, Zekai Qu, Zeyuan Liu, Yinghao Chen, Yuxin Zuo, Cheng Qian, Kaiyan Zhang, Weize Chen, Chaojun Xiao, Ganqu Cui, Ning Ding, Zhiyuan Liu<br>
+  *Preprint* [[GitHub 200+ Stars]](https://github.com/thunlp/JustRL)
 - [MiniCPM-V 4.5: Cooking Efficient MLLMs via Architecture, Data, and Training Recipe](https://arxiv.org/abs/2509.18154)<br>
   MiniCPM-V Team <br>
   *Preprint* [[GitHub 22k+ Stars]](https://github.com/OpenBMB/MiniCPM-V)
@@ -114,6 +121,7 @@ Hi! I am a second year PhD student studying at [Tsinghua University](https://www
 <span class='anchor' id='invited-talks'></span>
 
 # 💬 Invited Talks
+- JustRL: Scaling a 1.5B LLM with a Simple RL Recipe. QingKeAI. [Link](https://qingkeai.online/archives/JustRL). *2026.02*
 - The Right Time Matters: Data Arrangement Affects Zero-Shot Generalization in Instruction Tuning. Alibaba Security. [Link](https://mp.weixin.qq.com/s/Ig_1I_3_U0L8P1PWJsIA2A). *2025.05*
 - Tell me more! towards implicit user intention understanding of language model driven agents. Wiztalk. *2024.08*
 - Tell me more! towards implicit user intention understanding of language model driven agents. ModelBest. *2024.04*
@@ -122,7 +130,7 @@ Hi! I am a second year PhD student studying at [Tsinghua University](https://www
 
 # 🛠️ Services
 
-- **Conference Reviewer**: NeurIPS (2024 - 2025), ICLR (2025 - 2026), ICML (2025), ACL ARR (2024 - 2025), COLM (2025), COLM SCALR Workshop (2025), AAAI (2026), AISTATS (2025 - 2026), ICCV (2025)
+- **Conference Reviewer**: NeurIPS (2024 - 2025), ICLR (2025 - 2026), ICML (2025 - 2026), ACL ARR (2024 - 2025), COLM (2025 - 2026), COLM SCALR Workshop (2025), AAAI (2026), AISTATS (2025 - 2026), ICCV (2025)
 
 
 <!-- # 💻 Internships
