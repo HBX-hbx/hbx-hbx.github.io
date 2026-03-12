@@ -19,7 +19,7 @@ redirect_from:
 
 # 👋 About Me
 
-Hi! I am a second year PhD student studying at [Tsinghua University](https://www.tsinghua.edu.cn/) starting from Fall 2024, majoring in Computer Science and Technology. I am a member of [THUNLP](http://nlp.csai.tsinghua.edu.cn/), advised by [Prof. Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/). I received my bachelor's degree with honors from [Tsinghua University](https://www.tsinghua.edu.cn/) in June 2024. My research interests primarily lie in the field of natural language processing, with a particular focus on alignment of LLMs.
+Hi! I am a second year PhD student studying at [Tsinghua University](https://www.tsinghua.edu.cn/) starting from Fall 2024, majoring in Computer Science and Technology. I am a member of [THUNLP](http://nlp.csai.tsinghua.edu.cn/), advised by [Prof. Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/). I received my bachelor's degree with honors from [Tsinghua University](https://www.tsinghua.edu.cn/) in June 2024. My research interests primarily lie in the field of natural language processing, with a particular focus on reinforcement learning for LLMs.
 <!-- <a href='https://scholar.google.com/citations?user=mb36VikAAAAJ'><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fscholar.google.com%2Fcitations%3Fuser%3Dmb36VikAAAAJ&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> -->
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
@@ -27,18 +27,17 @@ Hi! I am a second year PhD student studying at [Tsinghua University](https://www
 <span class='anchor' id='news'></span>
 
 # 🌟 News
-- *2026.01*: &nbsp;🎉 [Unsupervised RLVR](https://openreview.net/forum?id=VesLZukY5E) accepted by ICLR 2026, we are working on the final revision!
-- *2025.12*: &nbsp;🔥 [JustRL](https://arxiv.org/abs/2512.16649) released at arXiv [[GitHub]](https://github.com/thunlp/JustRL)
-- *2025.09*: &nbsp;🎉 [MiniCPM-V 4.5](https://arxiv.org/abs/2509.18154) released at arXiv [[GitHub]](https://github.com/OpenBMB/MiniCPM-V)
+- *2026.02*: &nbsp;🎉 [Unsupervised RLVR](https://arxiv.org/abs/2603.08660) accepted by ICLR 2026 [[Github]](https://github.com/PRIME-RL/TTRL/tree/urlvr-dev)
+- *2025.12*: &nbsp;🔥 [JustRL](https://arxiv.org/abs/2512.16649) accepted by ICLR 2026 Blog Track [[GitHub]](https://github.com/thunlp/JustRL)
+- *2025.10*: &nbsp;🎉 [Veri-R1](https://arxiv.org/abs/2510.01932) released at arXiv [[Github]](https://github.com/H0key-22/Veri-R1)
 - *2025.09*: &nbsp;🔥 [Survey of RL for LRM](https://arxiv.org/abs/2509.08827) released at arXiv [[GitHub]](https://github.com/TsinghuaC3I/Awesome-RL-for-LRMs)
 - *2025.07*: &nbsp;🎉 [AIR](https://arxiv.org/abs/2504.03612) accepted by COLM 2025
-- *2025.06*: &nbsp;🎉 [MiniCPM4](https://arxiv.org/abs/2506.07900) released at arXiv [[GitHub]](https://github.com/openbmb/minicpm)
-- *2025.05*: &nbsp;🎉 [EscapeBench](https://arxiv.org/abs/2412.13549) accepted by ACL 2025 Main [[GitHub]](https://github.com/qiancheng0/EscapeBench)
-- *2025.05*: &nbsp;🎉 One [paper](https://arxiv.org/abs/2406.11721) accepted by ACL 2025 Findings [[GitHub]](https://github.com/thunlp/Dynamics-of-Zero-Shot-Generalization)
+- *2025.05*: &nbsp;🎉 [EscapeBench](https://arxiv.org/abs/2412.13549) accepted by ACL 2025 [[GitHub]](https://github.com/qiancheng0/EscapeBench)
+- *2025.05*: &nbsp;🎉 [Dynamic of Zero-Shot Generalization](https://arxiv.org/abs/2406.11721) accepted by ACL 2025 [[GitHub]](https://github.com/thunlp/Dynamics-of-Zero-Shot-Generalization)
 - *2025.02*: &nbsp;🔥 [PRIME](https://arxiv.org/abs/2502.01456) released at arXiv [[GitHub]](https://github.com/PRIME-RL/PRIME)
-- *2024.05*: &nbsp;🎉 One [paper](https://arxiv.org/abs/2402.09205) accepted by ACL 2024 Main [[GitHub]](https://github.com/OpenBMB/Tell_Me_More)
-- *2024.05*: &nbsp;🔥 [UltraFeedback](https://arxiv.org/abs/2310.01377) accepted by ICML 2024 Poster [[GitHub]](https://github.com/OpenBMB/UltraFeedback)
-- *2023.10*: &nbsp;🎉 One [paper](https://aclanthology.org/2023.emnlp-main.463) accepted by EMNLP 2023 Main [[GitHub]](https://github.com/thunlp/LLM-generated-text-detection)
+- *2024.05*: &nbsp;🎉 [Tell Me More](https://arxiv.org/abs/2402.09205) accepted by ACL 2024 [[GitHub]](https://github.com/OpenBMB/Tell_Me_More)
+- *2024.05*: &nbsp;🔥 [UltraFeedback](https://arxiv.org/abs/2310.01377) accepted by ICML 2024 [[GitHub]](https://github.com/OpenBMB/UltraFeedback)
+- *2023.10*: &nbsp;🎉 Our work on [LLM-generated Text Detection](https://aclanthology.org/2023.emnlp-main.463) is accepted by EMNLP 2023 [[GitHub]](https://github.com/thunlp/LLM-generated-text-detection)
 - *2022.09*: &nbsp;🎉 [OpenBackdoor](https://arxiv.org/abs/2206.08514) accepted by NeurIPS Datasets & Benchmarks 2022 **(Spotlight)** [[GitHub]](https://github.com/thunlp/OpenBackdoor)
 
 <span class='anchor' id='publications'></span>
@@ -59,25 +58,26 @@ Hi! I am a second year PhD student studying at [Tsinghua University](https://www
 
 (* denotes equal/core contribution, <sup>†</sup> denotes project lead)
 
-- [How Far Can Unsupervised RLVR Scale LLM Training?](https://openreview.net/forum?id=VesLZukY5E)<br>
-  *ICLR 2026*
+- [How Far Can Unsupervised RLVR Scale LLM Training?](https://arxiv.org/abs/2603.08660)<br>
+  **Bingxiang He**\*, Yuxin Zuo\*<sup>†</sup>, Zeyuan Liu\*, Shangziqi Zhao\*, Zixuan Fu, Junlin Yang, Cheng Qian, Kaiyan Zhang, Yuchen Fan, Ganqu Cui, Xiusi Chen, Youbang Sun, Xingtai Lv, Xuekai Zhu, Li Sheng, Ran Li, Huan-ang Gao, Yuchen Zhang, Bowen Zhou, Zhiyuan Liu, Ning Ding<br>
+  *ICLR 2026* [[GitHub 1k+ Stars]](https://github.com/PRIME-RL/TTRL/tree/urlvr-dev)
 - [JustRL: Scaling a 1.5B LLM with a Simple RL Recipe](https://arxiv.org/abs/2512.16649)<br>
   **Bingxiang He**, Zekai Qu, Zeyuan Liu, Yinghao Chen, Yuxin Zuo, Cheng Qian, Kaiyan Zhang, Weize Chen, Chaojun Xiao, Ganqu Cui, Ning Ding, Zhiyuan Liu<br>
-  *Preprint* [[GitHub 200+ Stars]](https://github.com/thunlp/JustRL)
+  *ICLR 2026 Blog* [[GitHub 200+ Stars]](https://github.com/thunlp/JustRL)
 - [MiniCPM-V 4.5: Cooking Efficient MLLMs via Architecture, Data, and Training Recipe](https://arxiv.org/abs/2509.18154)<br>
   MiniCPM-V Team <br>
-  *Preprint* [[GitHub 22k+ Stars]](https://github.com/OpenBMB/MiniCPM-V)
+  *CVPR 2026* [[GitHub 24k+ Stars]](https://github.com/OpenBMB/MiniCPM-V)
 - [A Survey of Reinforcement Learning for Large Reasoning Models](https://arxiv.org/abs/2509.08827)<br>
   Kaiyan Zhang\*<sup>†</sup>, Yuxin Zuo\*<sup>†</sup>, **Bingxiang He**\*, Youbang Sun\*, Runze Liu\*, Che Jiang\*, Yuchen Fan\*, Kai Tian\*, Guoli Jia\*, Pengfei Li\*, Yu Fu\*, Xingtai Lv\*, Yuchen Zhang\*, Sihang Zeng\*, Shang Qu\*, Haozhan Li\*, Shijie Wang\*, Yuru Wang\*, Xinwei Long, Fangfu Liu, Xiang Xu, Jiaze Ma, Xuekai Zhu, Ermo Hua, Yihao Liu, Zonglin Li, Huayu Chen, Xiaoye Qu, Yafu Li, Weize Chen, Zhenzhao Yuan, Junqi Gao, Dong Li, Zhiyuan Ma, Ganqu Cui, Zhiyuan Liu, Biqing Qi, Ning Ding, Bowen Zhou<br>
-  *Preprint* [[GitHub 1.4k+ Stars]](https://github.com/TsinghuaC3I/Awesome-RL-for-LRMs)
+  *Preprint* [[GitHub 2k+ Stars]](https://github.com/TsinghuaC3I/Awesome-RL-for-LRMs)
 - [AIR: A Systematic Analysis of Annotations, Instructions, and Response Pairs in Preference Dataset](https://arxiv.org/abs/2504.03612)<br>
-  **Bingxiang He***, Wenbin Zhang*, Jiaxi Song, Cheng Qian, Zixuan Fu, Bowen Sun, Ning Ding, Haiwen Hong, Longtao Huang, Hui Xue, Ganqu Cui, Wanxiang Che, Zhiyuan Liu, Maosong Sun <br>
+  **Bingxiang He**\*, Wenbin Zhang\*, Jiaxi Song, Cheng Qian, Zixuan Fu, Bowen Sun, Ning Ding, Haiwen Hong, Longtao Huang, Hui Xue, Ganqu Cui, Wanxiang Che, Zhiyuan Liu, Maosong Sun <br>
   *COLM 2025* 
 - [MiniCPM4: Ultra-Efficient LLMs on End Devices](https://arxiv.org/abs/2506.07900)<br>
-  *Preprint* MiniCPM Team [[GitHub 8.4k+ Stars](https://github.com/openbmb/minicpm)]
+  *Preprint* MiniCPM Team [[GitHub 8k+ Stars](https://github.com/openbmb/minicpm)]
 - [Process Reinforcement through Implicit Rewards](https://arxiv.org/abs/2502.01456)<br>
   Ganqu Cui\*, Lifan Yuan\*, Zefan Wang\*, Hanbin Wang\*, Wendi Li\*, **Bingxiang He\***, Yuchen Fan\*, Tianyu Yu\*, Qixin Xu\*, Weize Chen, Jiarui Yuan, Huayu Chen, Kaiyan Zhang, Xingtai Lv, Shuo Wang, Yuan Yao, Xu Han, Hao Peng, Yu Cheng, Zhiyuan Liu, Maosong Sun, Bowen Zhou, Ning Ding<br>
-  *ICLR 2026 Submission* [[GitHub 1.7k+ Stars](https://github.com/PRIME-RL/PRIME)]
+  *Preprint* [[GitHub 1k+ Stars](https://github.com/PRIME-RL/PRIME)]
 - [EscapeBench: Pushing Language Models to Think Outside the Box](https://arxiv.org/abs/2412.13549)<br>
   Cheng Qian, Peixuan Han, Qinyu Luo, **Bingxiang He**, Xiusi Chen, Yuji Zhang, Hongyi Du, Jiarui Yao, Xiaocheng Yang, Denghui Zhang, Yunzhu Li, Heng Ji<br>
   *ACL 2025 Main* [[GitHub](https://github.com/qiancheng0/EscapeBench)]
@@ -89,13 +89,13 @@ Hi! I am a second year PhD student studying at [Tsinghua University](https://www
   *ACL 2024 Main* [[GitHub](https://github.com/HBX-hbx/Mistral-Interact)]
 - [UltraFeedback: Boosting Language Models with High-quality Feedback](https://arxiv.org/abs/2310.01377)<br>
   Ganqu Cui\*, Lifan Yuan\*, Ning Ding, Guanming Yao, **Bingxiang He**, Wei Zhu, Yuan Ni, Guotong Xie, Ruobing Xie, Yankai Lin, Zhiyuan Liu, Maosong Sun<br>
-  *ICML 2024 Poster* [[GitHub](https://github.com/OpenBMB/UltraFeedback)]
+  *ICML 2024* [[GitHub 300+ Stars](https://github.com/OpenBMB/UltraFeedback)]
 - [Beat LLMs at Their Own Game: Zero-Shot LLM-Generated Text Detection via Querying ChatGPT](https://aclanthology.org/2023.emnlp-main.463)<br>
   Biru Zhu, Lifan Yuan, Ganqu Cui, Yangyi Chen, Chong Fu, **Bingxiang He**, Yangdong Deng, Zhiyuan Liu, Maosong Sun, Ming Gu<br>
   *EMNLP 2023 Main* [[GitHub](https://github.com/thunlp/LLM-generated-text-detection)]
 - [A Unified Evaluation of Textual Backdoor Learning: Frameworks and Benchmarks](https://arxiv.org/abs/2206.08514)<br>
   Ganqu Cui\*, Lifan Yuan\*, **Bingxiang He**, Yangyi Chen, Zhiyuan Liu, Maosong Sun<br>
-  *NeurIPS Datasets & Benchmarks 2022* **(Spotlight)** [[GitHub]](https://github.com/thunlp/OpenBackdoor)
+  *NeurIPS Datasets & Benchmarks 2022* **(Spotlight)** [[GitHub 200+ Stars]](https://github.com/thunlp/OpenBackdoor)
 
 <span class='anchor' id='educations'></span>
 
@@ -108,6 +108,7 @@ Hi! I am a second year PhD student studying at [Tsinghua University](https://www
 <span class='anchor' id='honors-and-awards'></span>
 
 # 🎖 Honors and Awards
+* Comprehensive Merit Scholarship of Tsinghua for the 2024-2025 school year, Dept. of CST. *2025.12*
 * Outstanding Graduate Award, Beijing Municipal Education Commission. *2024.06*
 * Outstanding Paper Award for Diploma Project, Tsinghua University. *2024.06*
 * Five Star ZiJing Volunteer Award, Tsinghua University Communist Youth League Committee. *2024.05*
