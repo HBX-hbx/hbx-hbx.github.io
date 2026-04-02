@@ -138,6 +138,6 @@ Hi! I am a second year PhD student studying at [Tsinghua University](https://www
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
 
 <div style="width:300px;margin:0 auto;text-align:center;">
-<script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=9P36lF68rrQdOXDy5QNtJLTAeufXcFYK4LrZ40PGFls"></script>
+<script type="text/javascript" id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?d=1TDvEahPmV3VuWyZ7W9mP_u5oVF0eoyT5LaJP0C-Oc4&cl=ffffff&w=a"></script>
 <!-- <script type="text/javascript" id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?cl=aaaaaa&w=300&t=tt&d=REPLACE_WITH_YOUR_WIDGET_ID&co=ffffff&ct=666666&cmo=3acc3a&cmn=ff5353"></script> -->
 </div>
