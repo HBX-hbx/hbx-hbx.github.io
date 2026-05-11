@@ -27,6 +27,7 @@ Hi! I am a second year PhD student studying at [Tsinghua University](https://www
 <span class='anchor' id='news'></span>
 
 # 🌟 News
+- *2026.05*: &nbsp;🎉 [CPMobius](https://arxiv.org/pdf/2602.02979) accepted by ICML 2026
 - *2026.04*: &nbsp;🎉 [Rethinking OPD](https://arxiv.org/pdf/2604.13016) released at arXiv [[Github]](https://github.com/thunlp/OPD)
 - *2026.02*: &nbsp;🎉 [Unsupervised RLVR](https://arxiv.org/pdf/2603.08660) accepted by ICLR 2026 [[Github]](https://github.com/PRIME-RL/TTRL/tree/urlvr-dev)
 - *2025.12*: &nbsp;🔥 [JustRL](https://arxiv.org/pdf/2512.16649) accepted by ICLR 2026 Blog Track [[GitHub]](https://github.com/thunlp/JustRL)
@@ -59,6 +60,9 @@ Hi! I am a second year PhD student studying at [Tsinghua University](https://www
 
 (* denotes equal/core contribution, <sup>†</sup> denotes project lead)
 
+- [CPMobius: Iterative Coach-Player Reasoning for Data-Free Reinforcement Learning](https://arxiv.org/pdf/2602.02979)<br>
+  Ran Li\*, Zeyuan Liu\*, Yinghao chen, **Bingxiang He**, Jiarui Yuan, Zixuan Fu, Weize Chen, Jinyi Hu, Zhiyuan Liu, Maosong Sun<br>
+  *ICML 2026*
 - [Rethinking On-Policy Distillation of Large Language Models: Phenomenology, Mechanism, and Recipe](https://arxiv.org/pdf/2604.13016)<br>
   Yaxuan Li\*, Yuxin Zuo\*<sup>†</sup>, **Bingxiang He**\*<sup>†</sup>, Jinqian Zhang, Chaojun Xiao, Cheng Qian, Tianyu Yu, Huan-ang Gao, Wenkai Yang, Zhiyuan Liu, Ning Ding<br>
   *Preprint* [[GitHub](https://github.com/thunlp/OPD)]
