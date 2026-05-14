@@ -27,11 +27,11 @@ Hi! I am a second year PhD student studying at [Tsinghua University](https://www
 <span class='anchor' id='news'></span>
 
 # 🌟 News
-- *2026.05*: &nbsp;🎉 [CPMobius](https://arxiv.org/pdf/2602.02979) accepted by ICML 2026
-- *2026.04*: &nbsp;🎉 [Rethinking OPD](https://arxiv.org/pdf/2604.13016) released at arXiv [[Github]](https://github.com/thunlp/OPD)
-- *2026.02*: &nbsp;🎉 [Unsupervised RLVR](https://arxiv.org/pdf/2603.08660) accepted by ICLR 2026 [[Github]](https://github.com/PRIME-RL/TTRL/tree/urlvr-dev)
+- *2026.05*: &nbsp;🎉 [CPMobius](https://arxiv.org/pdf/2602.02979) accepted by ICML 2026 [[GitHub]](https://github.com/thunlp/CPMobius)
+- *2026.04*: &nbsp;🎉 [Rethinking OPD](https://arxiv.org/pdf/2604.13016) released at arXiv [[GitHub]](https://github.com/thunlp/OPD)
+- *2026.02*: &nbsp;🎉 [Unsupervised RLVR](https://arxiv.org/pdf/2603.08660) accepted by ICLR 2026 [[GitHub]](https://github.com/PRIME-RL/TTRL/tree/urlvr-dev)
 - *2025.12*: &nbsp;🔥 [JustRL](https://arxiv.org/pdf/2512.16649) accepted by ICLR 2026 Blog Track [[GitHub]](https://github.com/thunlp/JustRL)
-- *2025.10*: &nbsp;🎉 [Veri-R1](https://arxiv.org/pdf/2510.01932) released at arXiv [[Github]](https://github.com/H0key-22/Veri-R1)
+- *2025.10*: &nbsp;🎉 [Veri-R1](https://arxiv.org/pdf/2510.01932) released at arXiv [[GitHub]](https://github.com/H0key-22/Veri-R1)
 - *2025.09*: &nbsp;🔥 [Survey of RL for LRM](https://arxiv.org/pdf/2509.08827) released at arXiv [[GitHub]](https://github.com/TsinghuaC3I/Awesome-RL-for-LRMs)
 - *2025.07*: &nbsp;🎉 [AIR](https://arxiv.org/pdf/2504.03612) accepted by COLM 2025
 - *2025.05*: &nbsp;🎉 [EscapeBench](https://arxiv.org/pdf/2412.13549) accepted by ACL 2025 [[GitHub]](https://github.com/qiancheng0/EscapeBench)
@@ -62,7 +62,7 @@ Hi! I am a second year PhD student studying at [Tsinghua University](https://www
 
 - [CPMobius: Iterative Coach-Player Reasoning for Data-Free Reinforcement Learning](https://arxiv.org/pdf/2602.02979)<br>
   Ran Li\*, Zeyuan Liu\*, Yinghao chen, **Bingxiang He**, Jiarui Yuan, Zixuan Fu, Weize Chen, Jinyi Hu, Zhiyuan Liu, Maosong Sun<br>
-  *ICML 2026*
+  *ICML 2026* [[GitHub]](https://github.com/thunlp/CPMobius)
 - [Rethinking On-Policy Distillation of Large Language Models: Phenomenology, Mechanism, and Recipe](https://arxiv.org/pdf/2604.13016)<br>
   Yaxuan Li\*, Yuxin Zuo\*<sup>†</sup>, **Bingxiang He**\*<sup>†</sup>, Jinqian Zhang, Chaojun Xiao, Cheng Qian, Tianyu Yu, Huan-ang Gao, Wenkai Yang, Zhiyuan Liu, Ning Ding<br>
   *Preprint* [[GitHub](https://github.com/thunlp/OPD)]
@@ -116,6 +116,7 @@ Hi! I am a second year PhD student studying at [Tsinghua University](https://www
 <span class='anchor' id='honors-and-awards'></span>
 
 # 🎖 Honors and Awards
+* ICML 2026 Gold Reviewer. *2026.05*
 * Comprehensive Merit Scholarship of Tsinghua for the 2024-2025 school year, Dept. of CST. *2025.12*
 * Outstanding Graduate Award, Beijing Municipal Education Commission. *2024.06*
 * Outstanding Paper Award for Diploma Project, Tsinghua University. *2024.06*
@@ -130,12 +131,13 @@ Hi! I am a second year PhD student studying at [Tsinghua University](https://www
 <span class='anchor' id='invited-talks'></span>
 
 # 💬 Invited Talks
-- How Far Can Unsupervised RLVR Scale LLM Training? AI TIME. [Link](https://live.bilibili.com/21813994). *2026.04*
-- Towards Scalable Reinforcement Learning for LLMs. BAAI. [Link](https://event.baai.ac.cn/activities/1020). *2026.04*
+
+- Towards Scalable Reinforcement Learning for LLMs. [BAAI](https://event.baai.ac.cn/activities/1054). [NICE](https://youtube.com/live/KOs6wqNu8c4?feature=share). *2026.05*
+- How Far Can Unsupervised RLVR Scale LLM Training? [AI TIME](https://live.bilibili.com/21813994). [Synced](https://channels.weixin.qq.com/finder-preview/pages/sph?id=A9nMDqasTh). [QingKeAI](https://qingkeai.online/archives/urlvr-talk). *2026.04*
 - JustRL: Scaling a 1.5B LLM with a Simple RL Recipe. QingKeAI. [Link](https://qingkeai.online/archives/JustRL). *2026.02*
 - The Right Time Matters: Data Arrangement Affects Zero-Shot Generalization in Instruction Tuning. Alibaba Security. [Link](https://mp.weixin.qq.com/s/Ig_1I_3_U0L8P1PWJsIA2A). *2025.05*
 - Tell me more! towards implicit user intention understanding of language model driven agents. Wiztalk. *2024.08*
-- Tell me more! towards implicit user intention understanding of language model driven agents. ModelBest. *2024.04*
+<!-- - Tell me more! towards implicit user intention understanding of language model driven agents. ModelBest. *2024.04* -->
 
 <span class='anchor' id='services'></span>
 
