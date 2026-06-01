@@ -27,7 +27,7 @@ Hi! I am a second year PhD student studying at [Tsinghua University](https://www
 <span class='anchor' id='news'></span>
 
 # 🌟 News
-- *2026.05*: &nbsp;🔥 [Rethinking OPD](https://arxiv.org/pdf/2604.13016) accepted by ICML 2026 FoGen Workshop, see you in Seoul! BTW our top‑k OPD overlap diagnostics are now merged into [veRL](https://github.com/verl-project/verl/pull/6469).
+- *2026.05*: &nbsp;🔥 [Rethinking OPD](https://arxiv.org/pdf/2604.13016) accepted by ICML 2026 FoGen Workshop, see you in Seoul! BTW metrics are merged into [veRL](https://github.com/verl-project/verl/pull/6469).
 - *2026.05*: &nbsp;🎉 [CPMobius](https://arxiv.org/pdf/2602.02979) accepted by ICML 2026 [[GitHub]](https://github.com/thunlp/CPMobius)
 - *2026.04*: &nbsp;🎉 [Rethinking OPD](https://arxiv.org/pdf/2604.13016) released at arXiv [[GitHub]](https://github.com/thunlp/OPD)
 - *2026.02*: &nbsp;🎉 [Unsupervised RLVR](https://arxiv.org/pdf/2603.08660) accepted by ICLR 2026 [[GitHub]](https://github.com/PRIME-RL/TTRL/tree/urlvr-dev)
