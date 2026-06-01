@@ -59,28 +59,28 @@ Hi! I am a second year PhD student studying at [Tsinghua University](https://www
 </div>
 </div> -->
 
-(* denotes equal/core contribution, <sup>†</sup> denotes project lead)
+(* denotes equal/core contribution, <sup>†</sup> denotes project lead， <sup>‡</sup> indicates corresponding author.)
 
 - [CPMobius: Iterative Coach-Player Reasoning for Data-Free Reinforcement Learning](https://arxiv.org/pdf/2602.02979)<br>
-  Ran Li\*, Zeyuan Liu\*, Yinghao chen, **Bingxiang He**, Jiarui Yuan, Zixuan Fu, Weize Chen, Jinyi Hu, Zhiyuan Liu, Maosong Sun<br>
+  Ran Li\*, Zeyuan Liu\*, Yinghao chen, **Bingxiang He**, Jiarui Yuan, Zixuan Fu, Weize Chen, Jinyi Hu, Zhiyuan Liu<sup>‡</sup>, Maosong Sun<br>
   *ICML 2026* [[GitHub]](https://github.com/thunlp/CPMobius)
 - [Rethinking On-Policy Distillation of Large Language Models: Phenomenology, Mechanism, and Recipe](https://arxiv.org/pdf/2604.13016)<br>
-  Yaxuan Li\*, Yuxin Zuo\*<sup>†</sup>, **Bingxiang He**\*<sup>†</sup>, Jinqian Zhang, Chaojun Xiao, Cheng Qian, Tianyu Yu, Huan-ang Gao, Wenkai Yang, Zhiyuan Liu, Ning Ding<br>
+  Yaxuan Li\*, Yuxin Zuo\*<sup>†</sup>, **Bingxiang He**\*<sup>†</sup>, Jinqian Zhang, Chaojun Xiao<sup>‡</sup>, Cheng Qian, Tianyu Yu, Huan-ang Gao, Wenkai Yang, Zhiyuan Liu<sup>‡</sup>, Ning Ding<sup>‡</sup><br>
   *ICML 2026 FoGen Workshop Poster* [[GitHub 500+ Stars](https://github.com/thunlp/OPD)]
 - [How Far Can Unsupervised RLVR Scale LLM Training?](https://arxiv.org/pdf/2603.08660)<br>
-  **Bingxiang He**\*, Yuxin Zuo\*<sup>†</sup>, Zeyuan Liu\*, Shangziqi Zhao\*, Zixuan Fu, Junlin Yang, Cheng Qian, Kaiyan Zhang, Yuchen Fan, Ganqu Cui, Xiusi Chen, Youbang Sun, Xingtai Lv, Xuekai Zhu, Li Sheng, Ran Li, Huan-ang Gao, Yuchen Zhang, Bowen Zhou, Zhiyuan Liu, Ning Ding<br>
+  **Bingxiang He**\*, Yuxin Zuo\*<sup>†</sup>, Zeyuan Liu\*, Shangziqi Zhao\*, Zixuan Fu, Junlin Yang, Cheng Qian, Kaiyan Zhang, Yuchen Fan, Ganqu Cui, Xiusi Chen, Youbang Sun, Xingtai Lv, Xuekai Zhu, Li Sheng, Ran Li, Huan-ang Gao, Yuchen Zhang, Bowen Zhou<sup>‡</sup>, Zhiyuan Liu<sup>‡</sup>, Ning Ding<sup>‡</sup><br>
   *ICLR 2026* [[GitHub 1k+ Stars]](https://github.com/PRIME-RL/TTRL/tree/urlvr-dev)
 - [JustRL: Scaling a 1.5B LLM with a Simple RL Recipe](https://arxiv.org/pdf/2512.16649)<br>
-  **Bingxiang He**, Zekai Qu, Zeyuan Liu, Yinghao Chen, Yuxin Zuo, Cheng Qian, Kaiyan Zhang, Weize Chen, Chaojun Xiao, Ganqu Cui, Ning Ding, Zhiyuan Liu<br>
+  **Bingxiang He**, Zekai Qu, Zeyuan Liu, Yinghao Chen, Yuxin Zuo, Cheng Qian, Kaiyan Zhang, Weize Chen, Chaojun Xiao, Ganqu Cui, Ning Ding<sup>‡</sup>, Zhiyuan Liu<sup>‡</sup><br>
   *ICLR 2026 Blog* [[GitHub 200+ Stars]](https://github.com/thunlp/JustRL)
 - [MiniCPM-V 4.5: Cooking Efficient MLLMs via Architecture, Data, and Training Recipe](https://arxiv.org/pdf/2509.18154)<br>
   MiniCPM-V Team <br>
   *CVPR 2026* [[GitHub 24k+ Stars]](https://github.com/OpenBMB/MiniCPM-V)
 - [A Survey of Reinforcement Learning for Large Reasoning Models](https://arxiv.org/pdf/2509.08827)<br>
-  Kaiyan Zhang\*<sup>†</sup>, Yuxin Zuo\*<sup>†</sup>, **Bingxiang He**\*, Youbang Sun\*, Runze Liu\*, Che Jiang\*, Yuchen Fan\*, Kai Tian\*, Guoli Jia\*, Pengfei Li\*, Yu Fu\*, Xingtai Lv\*, Yuchen Zhang\*, Sihang Zeng\*, Shang Qu\*, Haozhan Li\*, Shijie Wang\*, Yuru Wang\*, Xinwei Long, Fangfu Liu, Xiang Xu, Jiaze Ma, Xuekai Zhu, Ermo Hua, Yihao Liu, Zonglin Li, Huayu Chen, Xiaoye Qu, Yafu Li, Weize Chen, Zhenzhao Yuan, Junqi Gao, Dong Li, Zhiyuan Ma, Ganqu Cui, Zhiyuan Liu, Biqing Qi, Ning Ding, Bowen Zhou<br>
+  Kaiyan Zhang\*<sup>†</sup>, Yuxin Zuo\*<sup>†</sup>, **Bingxiang He**\*, Youbang Sun\*, Runze Liu\*, Che Jiang\*, Yuchen Fan\*, Kai Tian\*, Guoli Jia\*, Pengfei Li\*, Yu Fu\*, Xingtai Lv\*, Yuchen Zhang\*, Sihang Zeng\*, Shang Qu\*, Haozhan Li\*, Shijie Wang\*, Yuru Wang\*, Xinwei Long, Fangfu Liu, Xiang Xu, Jiaze Ma, Xuekai Zhu, Ermo Hua, Yihao Liu, Zonglin Li, Huayu Chen, Xiaoye Qu, Yafu Li, Weize Chen, Zhenzhao Yuan, Junqi Gao, Dong Li, Zhiyuan Ma, Ganqu Cui, Zhiyuan Liu, Biqing Qi<sup>‡</sup>, Ning Ding<sup>‡</sup>, Bowen Zhou<sup>‡</sup><br>
   *Preprint* [[GitHub 2k+ Stars]](https://github.com/TsinghuaC3I/Awesome-RL-for-LRMs)
 - [AIR: A Systematic Analysis of Annotations, Instructions, and Response Pairs in Preference Dataset](https://arxiv.org/pdf/2504.03612)<br>
-  **Bingxiang He**\*, Wenbin Zhang\*, Jiaxi Song, Cheng Qian, Zixuan Fu, Bowen Sun, Ning Ding, Haiwen Hong, Longtao Huang, Hui Xue, Ganqu Cui, Wanxiang Che, Zhiyuan Liu, Maosong Sun <br>
+  **Bingxiang He**\*, Wenbin Zhang\*, Jiaxi Song, Cheng Qian, Zixuan Fu, Bowen Sun, Ning Ding, Haiwen Hong, Longtao Huang, Hui Xue, Ganqu Cui<sup>‡</sup>, Wanxiang Che<sup>‡</sup>, Zhiyuan Liu, Maosong Sun <br>
   *COLM 2025* 
 - [MiniCPM4: Ultra-Efficient LLMs on End Devices](https://arxiv.org/pdf/2506.07900)<br>
   *Preprint* MiniCPM Team [[GitHub 8k+ Stars](https://github.com/openbmb/minicpm)]
@@ -91,7 +91,7 @@ Hi! I am a second year PhD student studying at [Tsinghua University](https://www
   Cheng Qian, Peixuan Han, Qinyu Luo, **Bingxiang He**, Xiusi Chen, Yuji Zhang, Hongyi Du, Jiarui Yao, Xiaocheng Yang, Denghui Zhang, Yunzhu Li, Heng Ji<br>
   *ACL 2025 Main* [[GitHub](https://github.com/qiancheng0/EscapeBench)]
 - [The Right Time Matters: Data Arrangement Affects Zero-Shot Generalization in Instruction Tuning](https://arxiv.org/pdf/2406.11721)<br>
-  **Bingxiang He\***, Ning Ding\*, Cheng Qian\*, Jia Deng, Ganqu Cui, Lifan Yuan, Haiwen Hong, Huan-ang Gao, Longtao Huang, Hui Xue, Huimin Chen, Zhiyuan Liu, Maosong Sun<br>
+  **Bingxiang He\***, Ning Ding\*, Cheng Qian\*, Jia Deng, Ganqu Cui, Lifan Yuan, Haiwen Hong, Huan-ang Gao, Longtao Huang, Hui Xue, Huimin Chen, Zhiyuan Liu<sup>‡</sup>, Maosong Sun<sup>‡</sup><br>
   *ACL 2025 Findings* [[GitHub](https://github.com/thunlp/Dynamics-of-Zero-Shot-Generalization)]
 - [Tell Me More! Towards Implicit User Intention Understanding of Language Model Driven Agents](https://arxiv.org/pdf/2402.09205)<br>
   Cheng Qian\*, **Bingxiang He\***, Zhong Zhuang, Jia Deng, Yujia Qin, Xin Cong, Zhong Zhang, Jie Zhou, Yankai Lin, Zhiyuan Liu, Maosong Sun<br>
