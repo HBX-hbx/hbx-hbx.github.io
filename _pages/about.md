@@ -27,6 +27,7 @@ Hi! I am a second year PhD student studying at [Tsinghua University](https://www
 <span class='anchor' id='news'></span>
 
 # 🌟 News
+- *2026.05*: &nbsp;🔥 [Rethinking OPD](https://arxiv.org/pdf/2604.13016) accepted by ICML 2026 FoGen Workshop, see you in Seoul! BTW our top‑k OPD overlap diagnostics are now merged into [veRL](https://github.com/verl-project/verl/pull/6469).
 - *2026.05*: &nbsp;🎉 [CPMobius](https://arxiv.org/pdf/2602.02979) accepted by ICML 2026 [[GitHub]](https://github.com/thunlp/CPMobius)
 - *2026.04*: &nbsp;🎉 [Rethinking OPD](https://arxiv.org/pdf/2604.13016) released at arXiv [[GitHub]](https://github.com/thunlp/OPD)
 - *2026.02*: &nbsp;🎉 [Unsupervised RLVR](https://arxiv.org/pdf/2603.08660) accepted by ICLR 2026 [[GitHub]](https://github.com/PRIME-RL/TTRL/tree/urlvr-dev)
@@ -65,7 +66,7 @@ Hi! I am a second year PhD student studying at [Tsinghua University](https://www
   *ICML 2026* [[GitHub]](https://github.com/thunlp/CPMobius)
 - [Rethinking On-Policy Distillation of Large Language Models: Phenomenology, Mechanism, and Recipe](https://arxiv.org/pdf/2604.13016)<br>
   Yaxuan Li\*, Yuxin Zuo\*<sup>†</sup>, **Bingxiang He**\*<sup>†</sup>, Jinqian Zhang, Chaojun Xiao, Cheng Qian, Tianyu Yu, Huan-ang Gao, Wenkai Yang, Zhiyuan Liu, Ning Ding<br>
-  *Preprint* [[GitHub](https://github.com/thunlp/OPD)]
+  *ICML 2026 FoGen Workshop Poster* [[GitHub 500+ Stars](https://github.com/thunlp/OPD)]
 - [How Far Can Unsupervised RLVR Scale LLM Training?](https://arxiv.org/pdf/2603.08660)<br>
   **Bingxiang He**\*, Yuxin Zuo\*<sup>†</sup>, Zeyuan Liu\*, Shangziqi Zhao\*, Zixuan Fu, Junlin Yang, Cheng Qian, Kaiyan Zhang, Yuchen Fan, Ganqu Cui, Xiusi Chen, Youbang Sun, Xingtai Lv, Xuekai Zhu, Li Sheng, Ran Li, Huan-ang Gao, Yuchen Zhang, Bowen Zhou, Zhiyuan Liu, Ning Ding<br>
   *ICLR 2026* [[GitHub 1k+ Stars]](https://github.com/PRIME-RL/TTRL/tree/urlvr-dev)
@@ -132,7 +133,8 @@ Hi! I am a second year PhD student studying at [Tsinghua University](https://www
 
 # 💬 Invited Talks
 
-- Towards Scalable Reinforcement Learning for LLMs. [BAAI](https://event.baai.ac.cn/activities/1054). [NICE](https://youtube.com/live/KOs6wqNu8c4?feature=share). *2026.05*
+- AMA (Ask Me Anything) for [Rethinking OPD](https://arxiv.org/pdf/2604.13016). [QingKeAI](https://www.bilibili.com/video/BV1qKVd6XEA3). *2026.05*
+- Towards Scalable Reinforcement Learning for LLMs. [BAAI](https://event.baai.ac.cn/activities/1054). [NICE](https://weixin.qq.com/sph/A8w25KHX4r). *2026.05*
 - How Far Can Unsupervised RLVR Scale LLM Training? [AI TIME](https://live.bilibili.com/21813994). [Synced](https://channels.weixin.qq.com/finder-preview/pages/sph?id=A9nMDqasTh). [QingKeAI](https://qingkeai.online/archives/urlvr-talk). *2026.04*
 - JustRL: Scaling a 1.5B LLM with a Simple RL Recipe. QingKeAI. [Link](https://qingkeai.online/archives/JustRL). *2026.02*
 - The Right Time Matters: Data Arrangement Affects Zero-Shot Generalization in Instruction Tuning. Alibaba Security. [Link](https://mp.weixin.qq.com/s/Ig_1I_3_U0L8P1PWJsIA2A). *2025.05*
@@ -143,7 +145,7 @@ Hi! I am a second year PhD student studying at [Tsinghua University](https://www
 
 # 🛠️ Services
 
-- **Conference Reviewer**: NeurIPS (2024 - 2025), ICLR (2025 - 2026), ICML (2025 - 2026), ACL ARR (2024 - 2025), COLM (2025 - 2026), COLM SCALR Workshop (2025), AAAI (2026), AISTATS (2025 - 2026), ICCV (2025)
+- **Conference Reviewer**: NeurIPS (2024 - 2025), ICLR (2025 - 2026), ICML (2025 - 2026), ACL ARR (2024 - 2026), COLM (2025 - 2026), COLM SCALR Workshop (2025), AAAI (2026), AISTATS (2025 - 2026), ICCV (2025)
 
 
 <!-- # 💻 Internships
