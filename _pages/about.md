@@ -139,8 +139,8 @@ Hi! I am a second year PhD student studying at [Tsinghua University](https://www
 - AMA (Ask Me Anything) for [Rethinking OPD](https://arxiv.org/pdf/2604.13016). [QingKeAI](https://www.bilibili.com/video/BV1qKVd6XEA3). *2026.05*
 - Towards Scalable Reinforcement Learning for LLMs. [BAAI](https://event.baai.ac.cn/activities/1054). [NICE](https://weixin.qq.com/sph/A8w25KHX4r). *2026.05*
 - How Far Can Unsupervised RLVR Scale LLM Training? [AI TIME](https://live.bilibili.com/21813994). [Synced](https://channels.weixin.qq.com/finder-preview/pages/sph?id=A9nMDqasTh). [QingKeAI](https://qingkeai.online/archives/urlvr-talk). *2026.04*
-- JustRL: Scaling a 1.5B LLM with a Simple RL Recipe. QingKeAI. [Link](https://qingkeai.online/archives/JustRL). *2026.02*
-- The Right Time Matters: Data Arrangement Affects Zero-Shot Generalization in Instruction Tuning. Alibaba Security. [Link](https://mp.weixin.qq.com/s/Ig_1I_3_U0L8P1PWJsIA2A). *2025.05*
+- JustRL: Scaling a 1.5B LLM with a Simple RL Recipe. [QingKeAI](https://qingkeai.online/archives/JustRL). *2026.02*
+- The Right Time Matters: Data Arrangement Affects Zero-Shot Generalization in Instruction Tuning. [Alibaba Security](https://mp.weixin.qq.com/s/Ig_1I_3_U0L8P1PWJsIA2A). *2025.05*
 - Tell me more! towards implicit user intention understanding of language model driven agents. Wiztalk. *2024.08*
 <!-- - Tell me more! towards implicit user intention understanding of language model driven agents. ModelBest. *2024.04* -->
 
