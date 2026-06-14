@@ -27,7 +27,9 @@ Hi! I am a second year PhD student studying at [Tsinghua University](https://www
 <span class='anchor' id='news'></span>
 
 # 🌟 News
+- *2026.06*: &nbsp;🎉 Honored to be one of Qingyuan InnoVibe 2026's Most Promising Rising Academic Stars!
 - *2026.05*: &nbsp;🔥 [Rethinking OPD](https://arxiv.org/pdf/2604.13016) accepted by ICML 2026 FoGen Workshop, see you in Seoul! BTW metrics are merged into [veRL](https://github.com/verl-project/verl/pull/6469).
+- *2026.05*: &nbsp;🎉 Honored to be recognized as a Gold Reviewer of ICML 2026!
 - *2026.05*: &nbsp;🎉 [CPMobius](https://arxiv.org/pdf/2602.02979) accepted by ICML 2026 [[GitHub]](https://github.com/thunlp/CPMobius)
 - *2026.04*: &nbsp;🎉 [Rethinking OPD](https://arxiv.org/pdf/2604.13016) released at arXiv [[GitHub]](https://github.com/thunlp/OPD)
 - *2026.02*: &nbsp;🎉 [Unsupervised RLVR](https://arxiv.org/pdf/2603.08660) accepted by ICLR 2026 [[GitHub]](https://github.com/PRIME-RL/TTRL/tree/urlvr-dev)
@@ -66,7 +68,7 @@ Hi! I am a second year PhD student studying at [Tsinghua University](https://www
   *ICML 2026* [[GitHub]](https://github.com/thunlp/CPMobius)
 - [Rethinking On-Policy Distillation of Large Language Models: Phenomenology, Mechanism, and Recipe](https://arxiv.org/pdf/2604.13016)<br>
   Yaxuan Li\*, Yuxin Zuo\*<sup>†</sup>, **Bingxiang He**\*<sup>†</sup>, Jinqian Zhang, Chaojun Xiao<sup>‡</sup>, Cheng Qian, Tianyu Yu, Huan-ang Gao, Wenkai Yang, Zhiyuan Liu<sup>‡</sup>, Ning Ding<sup>‡</sup><br>
-  *ICML 2026 FoGen Workshop Poster* [[GitHub 500+ Stars](https://github.com/thunlp/OPD)]
+  *ICML 2026 FoGen Workshop Poster* [[GitHub 600+ Stars](https://github.com/thunlp/OPD)]
 - [How Far Can Unsupervised RLVR Scale LLM Training?](https://arxiv.org/pdf/2603.08660)<br>
   **Bingxiang He**\*, Yuxin Zuo\*<sup>†</sup>, Zeyuan Liu\*, Shangziqi Zhao\*, Zixuan Fu, Junlin Yang, Cheng Qian, Kaiyan Zhang, Yuchen Fan, Ganqu Cui, Xiusi Chen, Youbang Sun, Xingtai Lv, Xuekai Zhu, Li Sheng, Ran Li, Huan-ang Gao, Yuchen Zhang, Bowen Zhou<sup>‡</sup>, Zhiyuan Liu<sup>‡</sup>, Ning Ding<sup>‡</sup><br>
   *ICLR 2026* [[GitHub 1k+ Stars]](https://github.com/PRIME-RL/TTRL/tree/urlvr-dev)
@@ -117,6 +119,7 @@ Hi! I am a second year PhD student studying at [Tsinghua University](https://www
 <span class='anchor' id='honors-and-awards'></span>
 
 # 🎖 Honors and Awards
+* Qingyuan InnoVibe 2026 (Most Promising Rising Academic Stars), BAAI. *2026.06*
 * ICML 2026 Gold Reviewer. *2026.05*
 * Comprehensive Merit Scholarship of Tsinghua for the 2024-2025 school year, Dept. of CST. *2025.12*
 * Outstanding Graduate Award, Beijing Municipal Education Commission. *2024.06*
