@@ -87,7 +87,7 @@ Hi! I am a second year PhD student studying at [Tsinghua University](https://www
 - [MiniCPM4: Ultra-Efficient LLMs on End Devices](https://arxiv.org/pdf/2506.07900)<br>
   *Preprint* MiniCPM Team [[GitHub 8k+ Stars](https://github.com/openbmb/minicpm)]
 - [Process Reinforcement through Implicit Rewards](https://arxiv.org/pdf/2502.01456)<br>
-  Ganqu Cui\*, Lifan Yuan\*, Zefan Wang\*, Hanbin Wang\*, Wendi Li\*, **Bingxiang He\***, Yuchen Fan\*, Tianyu Yu\*, Qixin Xu\*, Weize Chen, Jiarui Yuan, Huayu Chen, Kaiyan Zhang, Xingtai Lv, Shuo Wang, Yuan Yao, Xu Han, Hao Peng, Yu Cheng, Zhiyuan Liu, Maosong Sun, Bowen Zhou, Ning Ding<br>
+  Ganqu Cui\*, Lifan Yuan\*, Zefan Wang\*, Hanbin Wang\*, Yuchen Zhang\*, Jiacheng Chen\*, Wendi Li\*, **Bingxiang He\***, Yuchen Fan\*, Tianyu Yu\*, Qixin Xu\*, Weize Chen, Jiarui Yuan, Huayu Chen, Kaiyan Zhang, Xingtai Lv, Shuo Wang, Yuan Yao, Xu Han, Hao Peng, Yu Cheng, Zhiyuan Liu, Maosong Sun, Bowen Zhou, Ning Ding<br>
   *Preprint* [[GitHub 1k+ Stars](https://github.com/PRIME-RL/PRIME)]
 - [EscapeBench: Pushing Language Models to Think Outside the Box](https://arxiv.org/pdf/2412.13549)<br>
   Cheng Qian, Peixuan Han, Qinyu Luo, **Bingxiang He**, Xiusi Chen, Yuji Zhang, Hongyi Du, Jiarui Yao, Xiaocheng Yang, Denghui Zhang, Yunzhu Li, Heng Ji<br>
