@@ -119,7 +119,7 @@ Hi! I am a second year PhD student studying at [Tsinghua University](https://www
 <span class='anchor' id='honors-and-awards'></span>
 
 # 🎖 Honors and Awards
-* Qingyuan InnoVibe 2026 (Most Promising Rising Academic Stars), BAAI. *2026.06*
+* Qingyuan InnoVibe 2026 (Most Promising Rising Academic Stars), [BAAI](https://mp.weixin.qq.com/s/VwzvuyToY79B2DtWmenjVQ). *2026.06*
 * ICML 2026 Gold Reviewer. *2026.05*
 * Comprehensive Merit Scholarship of Tsinghua for the 2024-2025 school year, Dept. of CST. *2025.12*
 * Outstanding Graduate Award, Beijing Municipal Education Commission. *2024.06*
@@ -136,7 +136,8 @@ Hi! I am a second year PhD student studying at [Tsinghua University](https://www
 
 # 💬 Invited Talks
 
-- AMA (Ask Me Anything) for [Rethinking OPD](https://arxiv.org/pdf/2604.13016). [QingKeAI](https://www.bilibili.com/video/BV1qKVd6XEA3). *2026.05*
+- Three Boundaries for Scalable Reinforcement Learning. [Qingyuan InnoVibe 2026 in BAAI](https://event.baai.ac.cn/activities/1030). *2026.06*
+- AMA (Ask Me Anything) for [Rethinking OPD](https://arxiv.org/pdf/2604.13016). [QingKeAI](https://mp.weixin.qq.com/s/dgZ9Iy2ercIrynrdsXFOMA). *2026.05*
 - Towards Scalable Reinforcement Learning for LLMs. [BAAI](https://event.baai.ac.cn/activities/1054). [NICE](https://weixin.qq.com/sph/A8w25KHX4r). *2026.05*
 - How Far Can Unsupervised RLVR Scale LLM Training? [AI TIME](https://live.bilibili.com/21813994). [Synced](https://channels.weixin.qq.com/finder-preview/pages/sph?id=A9nMDqasTh). [QingKeAI](https://qingkeai.online/archives/urlvr-talk). *2026.04*
 - JustRL: Scaling a 1.5B LLM with a Simple RL Recipe. [QingKeAI](https://qingkeai.online/archives/JustRL). *2026.02*
