@@ -19,7 +19,7 @@ redirect_from:
 
 # 👋 About Me
 
-Hi! I am a second-year PhD student at [Tsinghua University](https://www.tsinghua.edu.cn/), majoring in Computer Science and Technology. I am a member of [THUNLP](http://nlp.csai.tsinghua.edu.cn/), advised by [Prof. Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/). I received my bachelor's degree with honors from [Tsinghua University](https://www.tsinghua.edu.cn/) in June 2024. My research interests lie in natural language processing, with a focus on alignment, reinforcement learning, and self-evolving language models, including both benchmark construction and method development.
+Hi! I am a second-year PhD student at [Tsinghua University](https://www.tsinghua.edu.cn/), majoring in Computer Science and Technology. I am a member of [THUNLP](http://nlp.csai.tsinghua.edu.cn/), advised by [Prof. Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/). I received my bachelor's degree with honors from [Tsinghua University](https://www.tsinghua.edu.cn/) in June 2024. My research interests lie in natural language processing, with a focus on alignment, reinforcement learning, and self-evolving language models.
 <!-- <a href='https://scholar.google.com/citations?user=mb36VikAAAAJ'><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fscholar.google.com%2Fcitations%3Fuser%3Dmb36VikAAAAJ&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> -->
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
@@ -27,6 +27,7 @@ Hi! I am a second-year PhD student at [Tsinghua University](https://www.tsinghua
 <span class='anchor' id='news'></span>
 
 # 🌟 News
+- *2026.07*: &nbsp;🎉 Selected for the CIE-Tencent Doctoral Research Incentive Project (44 recipients nationwide)!
 - *2026.06*: &nbsp;🎉 Honored to be one of Qingyuan InnoVibe 2026's Most Promising Rising Academic Stars!
 - *2026.06*: &nbsp;🔥 [NatureBench](https://arxiv.org/pdf/2606.24530) released at arXiv [[GitHub]](https://github.com/FrontisAI/NatureBench) [[Leaderboard]](https://frontisai.github.io/NatureBench)
 - *2026.05*: &nbsp;🔥 [Rethinking OPD](https://arxiv.org/pdf/2604.13016) accepted by ICML 2026 FoGen Workshop, see you in Seoul! BTW metrics are merged into [veRL](https://github.com/verl-project/verl/pull/6469).
@@ -150,16 +151,17 @@ Hi! I am a second-year PhD student at [Tsinghua University](https://www.tsinghua
 <span class='anchor' id='honors-and-awards'></span>
 
 # 🎖 Honors and Awards
+* CIE-Tencent Doctoral Research Incentive Project (中国电子学会-腾讯大模型博士生科研激励计划, 44 Recipients Nationwide, ¥100,000 Grant). *2026.07*
 * Qingyuan InnoVibe 2026 (青源最受瞩目学术新星, 25 Winners Nationwide), [BAAI](https://mp.weixin.qq.com/s/VwzvuyToY79B2DtWmenjVQ). *2026.06*
 * ICML 2026 Gold Reviewer (Top 25%). *2026.05*
-* Comprehensive Merit Scholarship of Tsinghua for 2024-2025, Dept. of CST. *2025.12*
-* Outstanding Graduate Award, Beijing Municipal Education Commission. *2024.06*
-* Outstanding Paper Award for Diploma Project, Tsinghua University. *2024.06*
-* Comprehensive Merit Scholarship of Tsinghua for 2022-2023, Dept. of CST. *2023.10*
-* Comprehensive Merit Scholarship of Tsinghua for 2021-2022, Dept. of CST (Top 1). *2022.10*
+* Comprehensive Scholarship of Tsinghua University for 2024-2025, Dept. of CST (Top 10). *2025.12*
+* Outstanding Graduate Award, Beijing Municipal Education Commission (Top 5%). *2024.06*
+* Outstanding Paper Award for Diploma Project, Tsinghua University (Top 5%). *2024.06*
+* Comprehensive Scholarship of Tsinghua University for 2022-2023, Dept. of CST (Top 10). *2023.10*
+* 12·9 Scholarship of Tsinghua University for 2021-2022, Dept. of CST (Top 1). *2022.10*
 * Third Prize in THU Challenge Cup Academic Competition, Tsinghua University. *2022.04*
-* Comprehensive Merit Scholarship of Tsinghua for 2020-2021, Dept. of CST. *2021.10*
-* Second Prize in Freshmen Scholarship, Tsinghua University. *2020.09*
+* Comprehensive Scholarship of Tsinghua University for 2020-2021, Dept. of CST (Top 10). *2021.10*
+* Second Prize in Freshmen Scholarship, Tsinghua University (Top 10 in Guangdong Province, Gaokao). *2020.09*
 
 <span class='anchor' id='invited-talks'></span>
 
