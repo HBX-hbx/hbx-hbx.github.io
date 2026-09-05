@@ -41,12 +41,11 @@ Hi! I am a third-year PhD student at [Tsinghua University](https://www.tsinghua.
   }
   .news-list li { padding: 0.12rem 0; }
 </style>
-
 <ul class="news-list" aria-label="Recent news">
   <li><em>2026.09</em>: &nbsp;🔥 <a href="https://arxiv.org/pdf/2609.04172">Rethinking OPD II: One-Shot OPD</a> released at arXiv <a href="https://github.com/Thinking-Space/One-Shot-OPD">GitHub</a></li>
   <li><em>2026.08</em>: &nbsp;🔥 <a href="https://arxiv.org/pdf/2608.14441">PACE-Bench</a> released at arXiv and accepted by EMNLP 2026 <a href="https://github.com/thunlp/PACE-Bench">GitHub</a></li>
   <li><em>2026.07</em>: &nbsp;🎉 Selected for the <a href="https://www.cie.org.cn/list_43/16649.html">CIE-Tencent Doctoral Research Incentive Project</a> (44 recipients nationwide)!</li>
-  <li><em>2026.06</em>: &nbsp;🎉 Honored to be one of Qingyuan InnoVibe 2026's Most Promising Rising Academic Stars!</li>
+  <li><em>2026.06</em>: &nbsp;🎉 Honored to be one of <a href="https://mp.weixin.qq.com/s/VwzvuyToY79B2DtWmenjVQ">Qingyuan InnoVibe 2026's Most Promising Rising Academic Stars</a> (25 Winners Nationwide)!</li>
   <li><em>2026.06</em>: &nbsp;🔥 <a href="https://arxiv.org/pdf/2606.24530">NatureBench</a> released at arXiv <a href="https://github.com/FrontisAI/NatureBench">GitHub</a> <a href="https://frontisai.github.io/NatureBench">Leaderboard</a></li>
   <li><em>2026.05</em>: &nbsp;🔥 <a href="https://arxiv.org/pdf/2604.13016">Rethinking OPD I</a> accepted by ICML 2026 FoGen Workshop, see you in Seoul! BTW metrics are merged into <a href="https://github.com/verl-project/verl/pull/6469">veRL</a>.</li>
   <li><em>2026.05</em>: &nbsp;🎉 Honored to be recognized as a Gold Reviewer of ICML 2026 (Top 25%)!</li>
@@ -67,6 +66,7 @@ Hi! I am a third-year PhD student at [Tsinghua University](https://www.tsinghua.
   <li><em>2023.10</em>: &nbsp;🎉 Our work on <a href="https://aclanthology.org/2023.emnlp-main.463">LLM-generated Text Detection</a> is accepted by EMNLP 2023 <a href="https://github.com/thunlp/LLM-generated-text-detection">GitHub</a></li>
   <li><em>2022.09</em>: &nbsp;🎉 <a href="https://arxiv.org/pdf/2206.08514">OpenBackdoor</a> accepted by NeurIPS Datasets &amp; Benchmarks 2022 <strong>(Spotlight)</strong> <a href="https://github.com/thunlp/OpenBackdoor">GitHub</a></li>
 </ul>
+
 
 <span class='anchor' id='publications'></span>
 
@@ -176,7 +176,7 @@ Hi! I am a third-year PhD student at [Tsinghua University](https://www.tsinghua.
 
 # 💼 Experience
 
-- *2026.03 - present*, [ModelBest (面壁智能)](https://www.modelbest.cn/), Beijing. Research Intern, Forward-Four Program (前进四计划). Working with [Postdoc Chaojun Xiao](https://xcjthu.github.io/).
+- *2026.03 - present*, [ModelBest (面壁智能)](https://www.modelbest.cn/), Beijing. Research Intern, Forward-Four Program (前进四计划). Working with [Postdoc Chaojun Xiao](https://xcjthu.github.io/). 
   - Post-training of the MiniCPM4 & MiniCPM5 series: SFT, RL, and on-policy distillation (OPD).
   - **AutoSFT**: a coding-agent that autonomously searches SFT data recipes; the SFT data engine of the pipeline.
   - **RL**: a minimal, stable RL recipe landed as MiniCPM5's math & reasoning RL; diagnosing and fixing training collapse.
