@@ -19,7 +19,7 @@ redirect_from:
 
 # 👋 About Me
 
-Hi! I am a second-year PhD student at [Tsinghua University](https://www.tsinghua.edu.cn/), majoring in Computer Science and Technology. I am a member of [THUNLP](http://nlp.csai.tsinghua.edu.cn/), advised by [Prof. Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/). I received my bachelor's degree with honors from [Tsinghua University](https://www.tsinghua.edu.cn/) in June 2024. My research interests lie in natural language processing, with a focus on alignment, reinforcement learning, and self-evolving language models.
+Hi! I am a third-year PhD student at [Tsinghua University](https://www.tsinghua.edu.cn/), majoring in Computer Science and Technology. I am a member of [THUNLP](http://nlp.csai.tsinghua.edu.cn/), advised by [Prof. Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/). I received my bachelor's degree with honors from [Tsinghua University](https://www.tsinghua.edu.cn/) in June 2024. My research interests lie in natural language processing, with a focus on alignment, reinforcement learning, and self-evolving language models.
 <!-- <a href='https://scholar.google.com/citations?user=mb36VikAAAAJ'><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fscholar.google.com%2Fcitations%3Fuser%3Dmb36VikAAAAJ&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> -->
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
@@ -27,7 +27,47 @@ Hi! I am a second-year PhD student at [Tsinghua University](https://www.tsinghua
 <span class='anchor' id='news'></span>
 
 # 🌟 News
-- *2026.07*: &nbsp;🎉 Selected for the CIE-Tencent Doctoral Research Incentive Project (44 recipients nationwide)!
+
+<style>
+  .news-window {
+    position: relative;
+    max-height: 23rem;
+    overflow-y: auto;
+    margin: 0 0 2rem;
+    padding: 0.2rem 1rem 0.2rem 0.2rem;
+    border: 1px solid rgba(127, 127, 127, 0.25);
+    border-radius: 0.45rem;
+    background: rgba(127, 127, 127, 0.045);
+    scrollbar-color: rgba(90, 90, 90, 0.55) transparent;
+    scrollbar-width: thin;
+  }
+  .news-window::after {
+    position: sticky;
+    display: block;
+    bottom: 0;
+    height: 1.5rem;
+    margin: -1.5rem 0 0;
+    background: linear-gradient(transparent, rgba(255, 255, 255, 0.92));
+    content: "";
+    pointer-events: none;
+  }
+  .news-window ul { margin-bottom: 0; }
+  .news-window li { padding: 0.18rem 0; }
+  @media (prefers-color-scheme: dark) {
+    .news-window::after {
+      background: linear-gradient(transparent, rgba(25, 25, 25, 0.92));
+    }
+  }
+  @media (max-width: 600px) {
+    .news-window { max-height: 26rem; padding-right: 0.7rem; }
+  }
+</style>
+
+<div class="news-window" tabindex="0" aria-label="Recent news">
+
+- *2026.09*: &nbsp;🔥 [One-Shot OPD](https://arxiv.org/pdf/2609.04172) released at arXiv [[GitHub]](https://github.com/Thinking-Space/One-Shot-OPD) [[HF Daily Paper]](https://huggingface.co/papers/2609.04172) [[X]](https://x.com/HBX_hbx/status/2095716853196747175)
+- *2026.08*: &nbsp;🔥 [PACE-Bench](https://arxiv.org/pdf/2608.14441) released at arXiv [[Project Page]](https://thunlp.github.io/PACE-Bench) [[GitHub]](https://github.com/thunlp/PACE-Bench) [[X]](https://x.com/HBX_hbx/status/2089751339048075411)
+- *2026.07*: &nbsp;🎉 Selected for the [CIE-Tencent Doctoral Research Incentive Project](https://www.cie.org.cn/list_43/16649.html) (44 recipients nationwide)!
 - *2026.06*: &nbsp;🎉 Honored to be one of Qingyuan InnoVibe 2026's Most Promising Rising Academic Stars!
 - *2026.06*: &nbsp;🔥 [NatureBench](https://arxiv.org/pdf/2606.24530) released at arXiv [[GitHub]](https://github.com/FrontisAI/NatureBench) [[Leaderboard]](https://frontisai.github.io/NatureBench)
 - *2026.05*: &nbsp;🔥 [Rethinking OPD](https://arxiv.org/pdf/2604.13016) accepted by ICML 2026 FoGen Workshop, see you in Seoul! BTW metrics are merged into [veRL](https://github.com/verl-project/verl/pull/6469).
@@ -49,25 +89,22 @@ Hi! I am a second-year PhD student at [Tsinghua University](https://www.tsinghua
 - *2023.10*: &nbsp;🎉 Our work on [LLM-generated Text Detection](https://aclanthology.org/2023.emnlp-main.463) is accepted by EMNLP 2023 [[GitHub]](https://github.com/thunlp/LLM-generated-text-detection)
 - *2022.09*: &nbsp;🎉 [OpenBackdoor](https://arxiv.org/pdf/2206.08514) accepted by NeurIPS Datasets & Benchmarks 2022 **(Spotlight)** [[GitHub]](https://github.com/thunlp/OpenBackdoor)
 
+</div>
+
 <span class='anchor' id='publications'></span>
 
 # 📝 Publications 
 
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div> -->
-
 (* denotes equal/core contribution, <sup>†</sup> denotes project lead, <sup>‡</sup> indicates corresponding author.)
 
-[Google Scholar](https://scholar.google.com/citations?user=mb36VikAAAAJ) · **2300+ citations**
+[Google Scholar](https://scholar.google.com/citations?user=mb36VikAAAAJ) · **2600+ citations**
+
+- [Rethinking On-Policy Distillation of Large Language Models II: One Training Example](https://arxiv.org/pdf/2609.04172)<br>
+  Zixuan Fu\*, **Bingxiang He**\*<sup>†‡</sup>, Yuxin Zuo\*<sup>†</sup>, Haohuan Huang\*, Jinqian Zhang, Ruhang Xiao, Cheng Qian, Qinyu Luo, Huan-ang Gao, Yudong Wang, Zhiyuan Liu, Ning Ding<sup>‡</sup>, Chaojun Xiao<sup>‡</sup><br>
+  *Preprint* [[GitHub]](https://github.com/Thinking-Space/One-Shot-OPD) [[HF Daily Paper]](https://huggingface.co/papers/2609.04172) [[X]](https://x.com/HBX_hbx/status/2095716853196747175)
+- [PACE-Bench: Benchmarking Physics Adaptation via Code Evolution in Dynamic Environments](https://arxiv.org/pdf/2608.14441)<br>
+  Yuhao Zhan\*, **Bingxiang He**\*, Zecong Tang, Chaojun Xiao<sup>‡</sup><br>
+  *Preprint* [[Project Page]](https://thunlp.github.io/PACE-Bench) [[GitHub]](https://github.com/thunlp/PACE-Bench) [[HF Benchmark]](https://huggingface.co/datasets/YuhaoZhan/PACE-Bench) [[HF Daily Paper]](https://huggingface.co/papers/2608.14441) [[X: HBX]](https://x.com/HBX_hbx/status/2089751339048075411) [[X: Yuhao]](https://x.com/YuhaoZhan6/status/2089717175955407057) [[X: OpenBMB]](https://x.com/OpenBMB/status/2092613042387276023) [[微信公众号: TsinghuaNLP]](https://mp.weixin.qq.com/s/NB7xRUCEdFmlkvysVuAVrA) [[微信公众号: OpenBMB]](https://mp.weixin.qq.com/s/uG1nxUFzQhVo5CTrlSsE6g) [[小红书]](https://www.xiaohongshu.com/explore/6a8bed800000000023011f94?xsec_token=ABmUVKv-fuTx0CQ3kEBjZAr7DZmrYB13Y9ieaqNJ8xeiA=&xsec_source=pc_share&source=webshare)
 
 - [CPMobius: Iterative Coach-Player Reasoning for Data-Free Reinforcement Learning](https://arxiv.org/pdf/2602.02979)<br>
   Ran Li\*, Zeyuan Liu\*, Yinghao Chen, **Bingxiang He**, Jiarui Yuan, Zixuan Fu, Weize Chen, Jinyi Hu, Zhiyuan Liu<sup>‡</sup>, Maosong Sun<br>
@@ -75,16 +112,16 @@ Hi! I am a second-year PhD student at [Tsinghua University](https://www.tsinghua
   <small>▸ Featured by [OpenBMB](https://mp.weixin.qq.com/s/hlfHG8nfteAVdfpO3ocXtQ)</small>
 - [Rethinking On-Policy Distillation of Large Language Models: Phenomenology, Mechanism, and Recipe](https://arxiv.org/pdf/2604.13016)<br>
   Yaxuan Li\*, Yuxin Zuo\*<sup>†</sup>, **Bingxiang He**\*<sup>†</sup>, Jinqian Zhang, Chaojun Xiao<sup>‡</sup>, Cheng Qian, Tianyu Yu, Huan-ang Gao, Wenkai Yang, Zhiyuan Liu<sup>‡</sup>, Ning Ding<sup>‡</sup><br>
-  *ICML 2026 FoGen Workshop* [[GitHub 800+ Stars](https://github.com/thunlp/OPD)]<br>
+  *ICML 2026 FoGen Workshop* [[GitHub 900+ Stars](https://github.com/Thinking-Space/Rethinking-OPD)]<br>
   <small>▸ Adopted by [ModelBest (MiniCPM5)](https://github.com/OpenBMB/MiniCPM/tree/minicpm5#what-does-rl--opd-bring) and [ByteDance Seed's veRL](https://github.com/verl-project/verl/pull/6469) · [#1 on HF Daily Papers](https://huggingface.co/papers/2604.13016) · [19k+ views on X](https://x.com/HBX_hbx/status/2044464414829777354) · Featured by [AK](https://x.com/_akhaliq/status/2044444138582466652), [TuringPost](https://x.com/TheTuringPost/status/2046710304999104954), [QingKeAI](https://mp.weixin.qq.com/s/kBPunQnTnp2GEU3DbZRYGQ), [Synced](https://mp.weixin.qq.com/s/uUGZc2sireEyCJg8Q200aw), [OpenBMB](https://mp.weixin.qq.com/s/x32CJozGUhl9RKm0BiaciA), [TsinghuaNLP](https://mp.weixin.qq.com/s/vbt3JkS782byAzYPhC7NRw)</small>
 - [How Far Can Unsupervised RLVR Scale LLM Training?](https://arxiv.org/pdf/2603.08660)<br>
   **Bingxiang He**\*, Yuxin Zuo\*<sup>†</sup>, Zeyuan Liu\*, Shangziqi Zhao\*, Zixuan Fu, Junlin Yang, Cheng Qian, Kaiyan Zhang, Yuchen Fan, Ganqu Cui, Xiusi Chen, Youbang Sun, Xingtai Lv, Xuekai Zhu, Li Sheng, Ran Li, Huan-ang Gao, Yuchen Zhang, Bowen Zhou<sup>‡</sup>, Zhiyuan Liu<sup>‡</sup>, Ning Ding<sup>‡</sup><br>
   *ICLR 2026* [[GitHub 1k+ Stars]](https://github.com/PRIME-RL/TTRL/tree/urlvr-dev)<br>
-  <small>▸ [#3 on HF Daily Papers](https://huggingface.co/papers/2603.08660) · [9k+ views on X](https://x.com/HBX_hbx/status/2031406636930338828) · Featured by [AK](https://x.com/_akhaliq/status/2031390379388350507), [TuringPost](https://x.com/TheTuringPost/status/2033856658615767496), [HuggingPapers](https://x.com/HuggingPapers/status/2031406570366525729), [sheriyuo](https://x.com/sheriyuo/status/2061382777623519284), [Synced](https://mp.weixin.qq.com/s/W6v7E-Rm3vybbjn265Ev4w), [OpenBMB](https://mp.weixin.qq.com/s/oR73dIBt2bPhO8dQcjmBCQ), [TsinghuaNLP](https://mp.weixin.qq.com/s/ovfQfgvbwS42RMemx6kyLQ)</small>
+  <small>▸ [#3 on HF Daily Papers](https://huggingface.co/papers/2603.08660) · [10k+ views on X](https://x.com/HBX_hbx/status/2031406636930338828) · Featured by [AK](https://x.com/_akhaliq/status/2031390379388350507), [TuringPost](https://x.com/TheTuringPost/status/2033856658615767496), [HuggingPapers](https://x.com/HuggingPapers/status/2031406570366525729), [sheriyuo](https://x.com/sheriyuo/status/2061382777623519284), [Synced](https://mp.weixin.qq.com/s/W6v7E-Rm3vybbjn265Ev4w), [OpenBMB](https://mp.weixin.qq.com/s/oR73dIBt2bPhO8dQcjmBCQ), [TsinghuaNLP](https://mp.weixin.qq.com/s/ovfQfgvbwS42RMemx6kyLQ)</small>
 - [JustRL: Scaling a 1.5B LLM with a Simple RL Recipe](https://arxiv.org/pdf/2512.16649)<br>
   **Bingxiang He**, Zekai Qu, Zeyuan Liu, Yinghao Chen, Yuxin Zuo, Cheng Qian, Kaiyan Zhang, Weize Chen, Chaojun Xiao, Ganqu Cui, Ning Ding<sup>‡</sup>, Zhiyuan Liu<sup>‡</sup><br>
-  *ICLR 2026 Blog* [[Blog]](https://www.notion.so/JustRL-Scaling-a-1-5B-LLM-with-a-Simple-RL-Recipe-24f6198b0b6b80e48e74f519bfdaf0a8) [[GitHub 280+ Stars]](https://github.com/thunlp/JustRL)<br>
-  <small>▸ [15k+ HF downloads](https://huggingface.co/collections/hbx/justrl) · Adopted by [ModelBest (MiniCPM5)](https://github.com/OpenBMB/MiniCPM/tree/minicpm5#what-does-rl--opd-bring) · [42k+ views on X](https://x.com/HBX_hbx/status/1988474153436090776) · [100k+ views on Zhihu](https://www.zhihu.com/question/1987478921730613767) · Featured by [alphaXiv](https://x.com/askalphaxiv/status/2003196659426316294), [DAIR.AI](https://x.com/dair_ai/status/2004235730613371251), [Synced](https://mp.weixin.qq.com/s/F4zvQfWusb-QetDi-ReErg), [TsinghuaNLP](https://mp.weixin.qq.com/s/J-_vndAFQwiWgnyS0AW4xQ), [QingKeAI](https://mp.weixin.qq.com/s/Ya6QHWQ5HKo-8XngAg3a7g)</small>
+  *ICLR 2026 Blog* [[Blog]](https://www.notion.so/JustRL-Scaling-a-1-5B-LLM-with-a-Simple-RL-Recipe-24f6198b0b6b80e48e74f519bfdaf0a8) [[GitHub 290+ Stars]](https://github.com/thunlp/JustRL)<br>
+  <small>▸ [25k+ HF downloads](https://huggingface.co/collections/hbx/justrl) · Adopted by [ModelBest (MiniCPM5)](https://github.com/OpenBMB/MiniCPM/tree/minicpm5#what-does-rl--opd-bring) · [42k+ views on X](https://x.com/HBX_hbx/status/1988474153436090776) · [100k+ views on Zhihu](https://www.zhihu.com/question/1987478921730613767) · Featured by [alphaXiv](https://x.com/askalphaxiv/status/2003196659426316294), [DAIR.AI](https://x.com/dair_ai/status/2004235730613371251), [Synced](https://mp.weixin.qq.com/s/F4zvQfWusb-QetDi-ReErg), [TsinghuaNLP](https://mp.weixin.qq.com/s/J-_vndAFQwiWgnyS0AW4xQ), [QingKeAI](https://mp.weixin.qq.com/s/Ya6QHWQ5HKo-8XngAg3a7g)</small>
 - [MiniCPM-V 4.5: Cooking Efficient MLLMs via Architecture, Data, and Training Recipe](https://arxiv.org/pdf/2509.18154)<br>
   MiniCPM-V Team <br>
   *CVPR 2026* [[GitHub 25k+ Stars]](https://github.com/OpenBMB/MiniCPM-V)<br>
@@ -133,7 +170,7 @@ Hi! I am a second-year PhD student at [Tsinghua University](https://www.tsinghua
 <span class='anchor' id='educations'></span>
 
 # 📖 Educations
-- *2024.09 - 2029.06 (now)*, [Tsinghua University](https://www.tsinghua.edu.cn/)
+- *2024.09 - present*, [Tsinghua University](https://www.tsinghua.edu.cn/)
   Ph.D. in Computer Science and Technology ([THUNLP](http://nlp.csai.tsinghua.edu.cn/))
 - *2020.09 - 2024.06*, [Tsinghua University](https://www.tsinghua.edu.cn/)
   B.S. in Computer Science and Technology with honors
@@ -151,8 +188,8 @@ Hi! I am a second-year PhD student at [Tsinghua University](https://www.tsinghua
 <span class='anchor' id='honors-and-awards'></span>
 
 # 🎖 Honors and Awards
-* CIE-Tencent Doctoral Research Incentive Project (中国电子学会-腾讯大模型博士生科研激励计划, 44 Recipients Nationwide, ¥100,000 Grant). *2026.07*
-* Qingyuan InnoVibe 2026 (青源最受瞩目学术新星, 25 Winners Nationwide), [BAAI](https://mp.weixin.qq.com/s/VwzvuyToY79B2DtWmenjVQ). *2026.06*
+* CIE-Tencent Doctoral Research Incentive Project ([official announcement](https://www.cie.org.cn/list_43/16649.html); [THUNLP announcement](https://mp.weixin.qq.com/s/dy9IjlakI7vpFltGhu6llg); 中国电子学会-腾讯大模型博士生科研激励计划, 44 Recipients Nationwide, ¥100,000 Grant). *2026.07*
+* Qingyuan InnoVibe 2026 (青源最受瞩目学术新星, 25 Winners Nationwide), [BAAI official announcement](https://mp.weixin.qq.com/s/VwzvuyToY79B2DtWmenjVQ), [THUNLP laboratory feature](https://mp.weixin.qq.com/s/mhkVUCZw8eGlc6glxuIudQ). *2026.06*
 * ICML 2026 Gold Reviewer (Top 25%). *2026.05*
 * Comprehensive Scholarship of Tsinghua University for 2024-2025, Dept. of CST (Top 10). *2025.12*
 * Outstanding Graduate Award, Beijing Municipal Education Commission (Top 5%). *2024.06*
@@ -168,7 +205,7 @@ Hi! I am a second-year PhD student at [Tsinghua University](https://www.tsinghua
 # 💬 Invited Talks
 
 - Three Boundaries for Scalable Reinforcement Learning. [Qingyuan InnoVibe 2026 in BAAI](https://event.baai.ac.cn/activities/1030). *2026.06*
-- AMA (Ask Me Anything) for [Rethinking OPD](https://arxiv.org/pdf/2604.13016). [QingKeAI](https://mp.weixin.qq.com/s/dgZ9Iy2ercIrynrdsXFOMA). *2026.05*
+- Rethinking On-Policy Distillation of Large Language Models. [Paper walk-through](https://www.youtube.com/watch?v=i7TqHMHlKQ0). *2026*
 - Towards Scalable Reinforcement Learning for LLMs. [BAAI](https://event.baai.ac.cn/activities/1054). [NICE](https://weixin.qq.com/sph/A8w25KHX4r). *2026.05*
 - How Far Can Unsupervised RLVR Scale LLM Training? [AI TIME](https://live.bilibili.com/21813994). [Synced](https://channels.weixin.qq.com/finder-preview/pages/sph?id=A9nMDqasTh). [QingKeAI](https://qingkeai.online/archives/urlvr-talk). *2026.04*
 - JustRL: Scaling a 1.5B LLM with a Simple RL Recipe. [QingKeAI](https://qingkeai.online/archives/JustRL). *2026.02*

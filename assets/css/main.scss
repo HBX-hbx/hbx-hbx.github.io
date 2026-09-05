@@ -37,6 +37,17 @@
 @import "vendor/font-awesome/fontawesome";
 @import "vendor/font-awesome/solid";
 @import "vendor/font-awesome/brands";
+
+.x-brand-icon {
+  display: inline-block;
+  width: 1.25em;
+  color: #000;
+  font-family: Arial, sans-serif;
+  font-size: 1.05em;
+  font-weight: 700;
+  line-height: 1;
+  text-align: center;
+}
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
