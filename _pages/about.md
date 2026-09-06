@@ -43,7 +43,8 @@ Hi! I am a third-year PhD student at [Tsinghua University](https://www.tsinghua.
 </style>
 <ul class="news-list" aria-label="Recent news">
   <li><em>2026.09</em>: &nbsp;🔥 <a href="https://arxiv.org/pdf/2609.04172">Rethinking OPD II: One-Shot OPD</a> released at arXiv <a href="https://github.com/Thinking-Space/One-Shot-OPD">GitHub</a></li>
-  <li><em>2026.08</em>: &nbsp;🔥 <a href="https://arxiv.org/pdf/2608.14441">PACE-Bench</a> released at arXiv and accepted by EMNLP 2026 <a href="https://github.com/thunlp/PACE-Bench">GitHub</a></li>
+  <li><em>2026.09</em>: &nbsp;🎉 <a href="https://arxiv.org/pdf/2609.00787">StudyBench</a> released at arXiv and accepted by EMNLP 2026 <a href="https://github.com/thunlp/StudyBench">GitHub</a></li>
+  <li><em>2026.08</em>: &nbsp;🎉 <a href="https://arxiv.org/pdf/2608.14441">PACE-Bench</a> released at arXiv and accepted by EMNLP 2026 <a href="https://github.com/thunlp/PACE-Bench">GitHub</a></li>
   <li><em>2026.07</em>: &nbsp;🎉 Selected for the <a href="https://www.cie.org.cn/list_43/16649.html">CIE-Tencent Doctoral Research Incentive Project</a> (44 recipients nationwide)!</li>
   <li><em>2026.06</em>: &nbsp;🎉 Honored to be one of <a href="https://mp.weixin.qq.com/s/VwzvuyToY79B2DtWmenjVQ">Qingyuan InnoVibe 2026's Most Promising Rising Academic Stars</a> (25 Winners Nationwide)!</li>
   <li><em>2026.06</em>: &nbsp;🔥 <a href="https://arxiv.org/pdf/2606.24530">NatureBench</a> released at arXiv <a href="https://github.com/FrontisAI/NatureBench">GitHub</a> <a href="https://frontisai.github.io/NatureBench">Leaderboard</a></li>
@@ -68,6 +69,7 @@ Hi! I am a third-year PhD student at [Tsinghua University](https://www.tsinghua.
 </ul>
 
 
+
 <span class='anchor' id='publications'></span>
 
 # 📝 Publications 
@@ -87,6 +89,12 @@ Hi! I am a third-year PhD student at [Tsinghua University](https://www.tsinghua.
   *EMNLP 2026 Findings* [[Project Page]](https://thunlp.github.io/PACE-Bench) [[GitHub]](https://github.com/thunlp/PACE-Bench) [[HF Benchmark]](https://huggingface.co/datasets/YuhaoZhan/PACE-Bench)
 
   <small>▸[[HF Daily Paper]](https://huggingface.co/papers/2608.14441) · [[2k+ views on X]](https://x.com/YuhaoZhan6/status/2089717175955407057) · Featured by [[TsinghuaNLP]](https://mp.weixin.qq.com/s/NB7xRUCEdFmlkvysVuAVrA), [[OpenBMB]](https://mp.weixin.qq.com/s/uG1nxUFzQhVo5CTrlSsE6g) </small>
+
+- [StudyBench: Can Self-Evolution Squeeze Textbooks for Olympiad Capability?](https://arxiv.org/pdf/2609.00787)<br>
+  Yinghao Chen\*, Zixi Chen\*, **Bingxiang He**\*<sup>‡</sup>, Ziqing Qiao, Huan-ang Gao, Yinuo Xu, Yuxin Zuo, Zeyuan Liu, Yuhao Zhan, Chaojun Xiao<sup>‡</sup><br>
+  *EMNLP 2026 Findings* [[GitHub]](https://github.com/thunlp/StudyBench)
+
+  <small>▸[[HF Paper]](https://huggingface.co/papers/2609.00787)</small>
 
 - [CPMobius: Iterative Coach-Player Reasoning for Data-Free Reinforcement Learning](https://arxiv.org/pdf/2602.02979)<br>
   Ran Li\*, Zeyuan Liu\*, Yinghao Chen, **Bingxiang He**, Jiarui Yuan, Zixuan Fu, Weize Chen, Jinyi Hu, Zhiyuan Liu<sup>‡</sup>, Maosong Sun<br>
@@ -201,7 +209,8 @@ Hi! I am a third-year PhD student at [Tsinghua University](https://www.tsinghua.
 
 # 💬 Invited Talks
 
-- [Rethinking OPD II](https://arxiv.org/pdf/2609.04172). Paper walk-through on [YouTube](https://www.youtube.com/watch?v=i7TqHMHlKQ0). Featured by [Kian Kyars](https://x.com/neuralkian/status/2091238980184392135). *2026.08*
+- [Rethinking OPD II: One-Shot OPD](https://arxiv.org/pdf/2609.04172). Paper walk-through on [YouTube](https://www.youtube.com/watch?v=gR-wGiTBd58). Featured by [Kian Kyars](https://x.com/neuralkian/status/2096467880909111300). *2026.08*
+- [Rethinking OPD I](https://arxiv.org/pdf/2604.13016). Paper walk-through on [YouTube](https://www.youtube.com/watch?v=i7TqHMHlKQ0). Featured by [Kian Kyars](https://x.com/neuralkian/status/2091238980184392135). *2026.08*
 - Three Boundaries for Scalable Reinforcement Learning. [Qingyuan InnoVibe 2026 in BAAI](https://event.baai.ac.cn/activities/1030). *2026.06*
 - AMA (Ask Me Anything) for [Rethinking OPD I](https://arxiv.org/pdf/2604.13016). [QingKeAI](https://mp.weixin.qq.com/s/dgZ9Iy2ercIrynrdsXFOMA). *2026.05*
 - Towards Scalable Reinforcement Learning for LLMs. [BAAI](https://event.baai.ac.cn/activities/1054). [NICE](https://weixin.qq.com/sph/A8w25KHX4r). *2026.05*
