@@ -94,7 +94,7 @@ Hi! I am a third-year PhD student at [Tsinghua University](https://www.tsinghua.
   Yinghao Chen\*, Zixi Chen\*, **Bingxiang He**\*<sup>‡</sup>, Ziqing Qiao, Huan-ang Gao, Yinuo Xu, Yuxin Zuo, Zeyuan Liu, Yuhao Zhan, Chaojun Xiao<sup>‡</sup><br>
   *EMNLP 2026 Findings* [[GitHub]](https://github.com/thunlp/StudyBench)
 
-  <small>▸[[HF Paper]](https://huggingface.co/papers/2609.00787)</small>
+  <small>▸[[HF Daily Paper]](https://huggingface.co/papers/2609.00787)</small>
 
 - [CPMobius: Iterative Coach-Player Reasoning for Data-Free Reinforcement Learning](https://arxiv.org/pdf/2602.02979)<br>
   Ran Li\*, Zeyuan Liu\*, Yinghao Chen, **Bingxiang He**, Jiarui Yuan, Zixuan Fu, Weize Chen, Jinyi Hu, Zhiyuan Liu<sup>‡</sup>, Maosong Sun<br>
