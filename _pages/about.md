@@ -76,13 +76,13 @@ Hi! I am a third-year PhD student at [Tsinghua University](https://www.tsinghua.
 
 (* denotes equal/core contribution, <sup>†</sup> denotes project lead, <sup>‡</sup> indicates corresponding author.)
 
-[Google Scholar](https://scholar.google.com/citations?user=mb36VikAAAAJ) · **2700+ citations**
+[Google Scholar](https://scholar.google.com/citations?user=mb36VikAAAAJ) · **2800+ citations**
 
 - [Rethinking On-Policy Distillation of Large Language Models II: One Training Example](https://arxiv.org/pdf/2609.04172)<br>
   Zixuan Fu\*, **Bingxiang He**\*<sup>†‡</sup>, Yuxin Zuo\*<sup>†</sup>, Haohuan Huang\*, Jinqian Zhang, Ruhang Xiao, Cheng Qian, Qinyu Luo, Huan-ang Gao, Yudong Wang, Zhiyuan Liu, Ning Ding<sup>‡</sup>, Chaojun Xiao<sup>‡</sup><br>
-  *Preprint* [[GitHub]](https://github.com/Thinking-Space/One-Shot-OPD)
+  *Preprint* [[GitHub 85+ Stars]](https://github.com/Thinking-Space/One-Shot-OPD)
 
-  <small>▸[[HF Daily Paper]](https://huggingface.co/papers/2609.04172) · [[12k+ views on X]](https://x.com/HBX_hbx/status/2095716853196747175)</small>
+  <small>▸[[100+ upvotes on HF Daily Papers]](https://huggingface.co/papers/2609.04172) · [[19.4k+ views on X]](https://x.com/HBX_hbx/status/2095716853196747175) · Featured by [alphaXiv](https://x.com/askalphaxiv/status/2096250248423231596), [Zen with AI](https://x.com/Zen_with_AI/status/2096272166174269895), [TuringPost](https://x.com/TheTuringPost/status/2097624353076658179), [Andriy Burkov](https://x.com/burkov/status/2096384426313957483), [HuggingPapers](https://x.com/HuggingPapers/status/2096088806126489776), [QingKeAI](https://mp.weixin.qq.com/s/4Dpb8qQ3rouHO4o2ptR6NA), [Synced](https://mp.weixin.qq.com/s/7wS7MTUoPni_yyMx3mja-g), [Zhihu](https://zhuanlan.zhihu.com/p/2079700159114507443)</small>
 
 - [PACE-Bench: Benchmarking Physics Adaptation via Code Evolution in Dynamic Environments](https://arxiv.org/pdf/2608.14441)<br>
   Yuhao Zhan\*, **Bingxiang He**\*, Zecong Tang, Chaojun Xiao<sup>‡</sup><br>
@@ -103,7 +103,7 @@ Hi! I am a third-year PhD student at [Tsinghua University](https://www.tsinghua.
 
 - [Rethinking On-Policy Distillation of Large Language Models: Phenomenology, Mechanism, and Recipe](https://arxiv.org/pdf/2604.13016)<br>
   Yaxuan Li\*, Yuxin Zuo\*<sup>†</sup>, **Bingxiang He**\*<sup>†</sup>, Jinqian Zhang, Chaojun Xiao<sup>‡</sup>, Cheng Qian, Tianyu Yu, Huan-ang Gao, Wenkai Yang, Zhiyuan Liu<sup>‡</sup>, Ning Ding<sup>‡</sup><br>
-  *ICML 2026 FoGen Workshop* [[GitHub 900+ Stars](https://github.com/Thinking-Space/Rethinking-OPD)]<br>
+  *ICML 2026 FoGen Workshop* [[GitHub 1k+ Stars](https://github.com/Thinking-Space/Rethinking-OPD)]<br>
   <small>▸ Adopted by [ModelBest (MiniCPM5)](https://github.com/OpenBMB/MiniCPM/tree/minicpm5#what-does-rl--opd-bring) and [ByteDance Seed's veRL](https://github.com/verl-project/verl/pull/6469) · [#1 on HF Daily Papers](https://huggingface.co/papers/2604.13016) · [19k+ views on X](https://x.com/HBX_hbx/status/2044464414829777354) · Featured by [AK](https://x.com/_akhaliq/status/2044444138582466652), [TuringPost](https://x.com/TheTuringPost/status/2046710304999104954), [QingKeAI](https://mp.weixin.qq.com/s/kBPunQnTnp2GEU3DbZRYGQ), [Synced](https://mp.weixin.qq.com/s/uUGZc2sireEyCJg8Q200aw), [OpenBMB](https://mp.weixin.qq.com/s/x32CJozGUhl9RKm0BiaciA), [TsinghuaNLP](https://mp.weixin.qq.com/s/vbt3JkS782byAzYPhC7NRw)</small>
 
 - [How Far Can Unsupervised RLVR Scale LLM Training?](https://arxiv.org/pdf/2603.08660)<br>
@@ -113,8 +113,8 @@ Hi! I am a third-year PhD student at [Tsinghua University](https://www.tsinghua.
 
 - [JustRL: Scaling a 1.5B LLM with a Simple RL Recipe](https://arxiv.org/pdf/2512.16649)<br>
   **Bingxiang He**, Zekai Qu, Zeyuan Liu, Yinghao Chen, Yuxin Zuo, Cheng Qian, Kaiyan Zhang, Weize Chen, Chaojun Xiao, Ganqu Cui, Ning Ding<sup>‡</sup>, Zhiyuan Liu<sup>‡</sup><br>
-  *ICLR 2026 Blog* [[Blog]](https://www.notion.so/JustRL-Scaling-a-1-5B-LLM-with-a-Simple-RL-Recipe-24f6198b0b6b80e48e74f519bfdaf0a8) [[GitHub 290+ Stars]](https://github.com/thunlp/JustRL)<br>
-  <small>▸ [25k+ HF downloads](https://huggingface.co/collections/hbx/justrl) · Adopted by [ModelBest (MiniCPM5)](https://github.com/OpenBMB/MiniCPM/tree/minicpm5#what-does-rl--opd-bring) · [42k+ views on X](https://x.com/HBX_hbx/status/1988474153436090776) · [100k+ views on Zhihu](https://www.zhihu.com/question/1987478921730613767) · Featured by [alphaXiv](https://x.com/askalphaxiv/status/2003196659426316294), [DAIR.AI](https://x.com/dair_ai/status/2004235730613371251), [Synced](https://mp.weixin.qq.com/s/F4zvQfWusb-QetDi-ReErg), [TsinghuaNLP](https://mp.weixin.qq.com/s/J-_vndAFQwiWgnyS0AW4xQ), [QingKeAI](https://mp.weixin.qq.com/s/Ya6QHWQ5HKo-8XngAg3a7g)</small>
+  *ICLR 2026 Blog* [[Blog]](https://www.notion.so/JustRL-Scaling-a-1-5B-LLM-with-a-Simple-RL-Recipe-24f6198b0b6b80e48e74f519bfdaf0a8) [[GitHub 300+ Stars]](https://github.com/thunlp/JustRL)<br>
+  <small>▸ [25k+ HF downloads](https://huggingface.co/collections/hbx/justrl) · Adopted by [ModelBest (MiniCPM5)](https://github.com/OpenBMB/MiniCPM/tree/minicpm5#what-does-rl--opd-bring) · [42k+ views on X](https://x.com/HBX_hbx/status/1988474153436090776) · [100k+ views on Zhihu](https://www.zhihu.com/question/1987478921730613767) · Featured by [alphaXiv](https://x.com/askalphaxiv/status/2003196659426316294), [DAIR.AI](https://x.com/dair_ai/status/2004235730613371251), [Zhihu Frontier](https://x.com/ZhihuFrontier/status/2098362348029477077), [Synced](https://mp.weixin.qq.com/s/F4zvQfWusb-QetDi-ReErg), [TsinghuaNLP](https://mp.weixin.qq.com/s/J-_vndAFQwiWgnyS0AW4xQ), [QingKeAI](https://mp.weixin.qq.com/s/Ya6QHWQ5HKo-8XngAg3a7g)<br>▸ Follow-up work JustRL v2 promoted on X: [25.3k+ views](https://x.com/HBX_hbx/status/2097249861355933879), [OpenBMB](https://x.com/OpenBMB/status/2097308982071431543) (8.9k+), [sheriyuo](https://x.com/sheriyuo/status/2097274116843905353) (5.7k+), [Zhihu Frontier](https://x.com/ZhihuFrontier/status/2098365535033684278) (3.2k+)</small>
 
 - [MiniCPM-V 4.5: Cooking Efficient MLLMs via Architecture, Data, and Training Recipe](https://arxiv.org/pdf/2509.18154)<br>
   MiniCPM-V Team <br>
@@ -128,7 +128,7 @@ Hi! I am a third-year PhD student at [Tsinghua University](https://www.tsinghua.
 
 - [NatureBench: Can Coding Agents Match the Published SOTA of Nature-Family Papers?](https://arxiv.org/pdf/2606.24530)<br>
   Yuru Wang\*, Lejun Cheng\*, Yuxin Zuo\*, Sihang Zeng, **Bingxiang He**, Che Jiang, Junlin Yang, Yuchong Wang, Kaikai Zhao, Weifeng Huang, Kai Tian, Zhenzhao Yuan, Jincheng Zhong, Weizhi Wang, Ning Ding, Bowen Zhou<sup>‡</sup>, Kaiyan Zhang<sup>‡</sup><br>
-  *Preprint* [[GitHub 50+ Stars]](https://github.com/FrontisAI/NatureBench) [[Data]](https://huggingface.co/datasets/FrontisAI/NatureBench) [[Leaderboard]](https://frontisai.github.io/NatureBench)<br>
+  *Preprint* [[GitHub 120+ Stars]](https://github.com/FrontisAI/NatureBench) [[Data]](https://huggingface.co/datasets/FrontisAI/NatureBench) [[Leaderboard]](https://frontisai.github.io/NatureBench)<br>
   <small>▸ [#2 on HF Daily Papers](https://huggingface.co/papers/2606.24530) · Featured by [TsinghuaC3I](https://mp.weixin.qq.com/s/k1yXiOGwznFmbvugjBvLOw)</small>
 
 - [AIR: A Systematic Analysis of Annotations, Instructions, and Response Pairs in Preference Dataset](https://arxiv.org/pdf/2504.03612)<br>
@@ -138,12 +138,12 @@ Hi! I am a third-year PhD student at [Tsinghua University](https://www.tsinghua.
 
 - [MiniCPM4: Ultra-Efficient LLMs on End Devices](https://arxiv.org/pdf/2506.07900)<br>
   MiniCPM Team<br>
-  *Preprint* [[GitHub 9k+ Stars](https://github.com/openbmb/minicpm)] [[HF Collection]](https://huggingface.co/collections/openbmb/minicpm-4-6841ab29d180257e940baa9b)<br>
+  *Preprint* [[GitHub 11.3k+ Stars](https://github.com/openbmb/minicpm)] [[HF Collection]](https://huggingface.co/collections/openbmb/minicpm-4-6841ab29d180257e940baa9b)<br>
   <small>▸ Featured by [OpenBMB](https://x.com/OpenBMB/status/1930983161577754747) (18k+ views), [TsinghuaNLP](https://mp.weixin.qq.com/s/bgKUJRKKt72GB5xU_3QyAQ)</small>
 
 - [Process Reinforcement through Implicit Rewards](https://arxiv.org/pdf/2502.01456)<br>
   Ganqu Cui\*, Lifan Yuan\*, Zefan Wang\*, Hanbin Wang\*, Yuchen Zhang\*, Jiacheng Chen\*, Wendi Li\*, **Bingxiang He\***, Yuchen Fan\*, Tianyu Yu\*, Qixin Xu\*, Weize Chen, Jiarui Yuan, Huayu Chen, Kaiyan Zhang, Xingtai Lv, Shuo Wang, Yuan Yao, Xu Han, Hao Peng, Yu Cheng, Zhiyuan Liu, Maosong Sun, Bowen Zhou, Ning Ding<br>
-  *Preprint* [[Blog]](https://curvy-check-498.notion.site/Process-Reinforcement-through-Implicit-Rewards-15f4fcb9c42180f1b498cc9b2eaf896f) [[GitHub 1.9k+ Stars](https://github.com/PRIME-RL/PRIME)]<br>
+  *TMLR* [[Blog]](https://curvy-check-498.notion.site/Process-Reinforcement-through-Implicit-Rewards-15f4fcb9c42180f1b498cc9b2eaf896f) [[GitHub 1.9k+ Stars](https://github.com/PRIME-RL/PRIME)]<br>
   <small>▸ [240k+ views on X](https://x.com/lifan__yuan/status/1874867809983033649) · Liked by John Schulman and reposted by Nathan Lambert · Featured by [QbitAI](https://mp.weixin.qq.com/s/s-DeQCAX1gth82YkABxLLA)</small>
 
 - [EscapeBench: Pushing Language Models to Think Outside the Box](https://arxiv.org/pdf/2412.13549)<br>
@@ -209,6 +209,7 @@ Hi! I am a third-year PhD student at [Tsinghua University](https://www.tsinghua.
 
 # 💬 Invited Talks
 
+- Rethinking OPD [I](https://arxiv.org/pdf/2604.13016) & [II](https://arxiv.org/pdf/2609.04172). [QingKeAI](https://qingkeai.online/blog/Rethinking-OPD-talk). [BAAI](https://mp.weixin.qq.com/s/VTTcJRDHWppqB1-WW4TAkg). [Shanghai AI Lab](https://www.xiaohongshu.com/explore/6ab4f79e0000000013018eec). [DINQ Session 1](https://mp.weixin.qq.com/s/zwCWTr1TM99UofaHRMaHVw) ([recap](https://mp.weixin.qq.com/s/duzfHjwMtX4OMXRa4D3seA)). *2026.09*
 - [Rethinking OPD II: One-Shot OPD](https://arxiv.org/pdf/2609.04172). Paper walk-through on [YouTube](https://www.youtube.com/watch?v=gR-wGiTBd58). Featured by [Kian Kyars](https://x.com/neuralkian/status/2096467880909111300). *2026.08*
 - [Rethinking OPD I](https://arxiv.org/pdf/2604.13016). Paper walk-through on [YouTube](https://www.youtube.com/watch?v=i7TqHMHlKQ0). Featured by [Kian Kyars](https://x.com/neuralkian/status/2091238980184392135). *2026.08*
 - Three Boundaries for Scalable Reinforcement Learning. [Qingyuan InnoVibe 2026 in BAAI](https://event.baai.ac.cn/activities/1030). *2026.06*
