@@ -42,7 +42,7 @@ Hi! I am a third-year PhD student at [Tsinghua University](https://www.tsinghua.
   .news-list li { padding: 0.12rem 0; }
 </style>
 <ul class="news-list" aria-label="Recent news">
-  <li><em>2026.09</em>: &nbsp;🎉 Attending <a href="https://2026.emnlp.org/">EMNLP 2026</a> in Budapest, Hungary — let's chat!</li>
+  <li><em>2026.10</em>: &nbsp;🎉 Attending <a href="https://2026.emnlp.org/">EMNLP 2026</a> in Budapest, Hungary — let's chat!</li>
   <li><em>2026.09</em>: &nbsp;🔥 <a href="https://arxiv.org/pdf/2609.33803">Diffusion Reward Models</a> released at arXiv <a href="https://github.com/thunlp/DRM">GitHub</a></li>
   <li><em>2026.09</em>: &nbsp;🔥 <a href="https://arxiv.org/pdf/2609.04172">Rethinking OPD II: One-Shot OPD</a> released at arXiv <a href="https://github.com/Thinking-Space/One-Shot-OPD">GitHub</a></li>
   <li><em>2026.09</em>: &nbsp;🎉 <a href="https://arxiv.org/pdf/2609.00787">StudyBench</a> released at arXiv and accepted by EMNLP 2026 <a href="https://github.com/thunlp/StudyBench">GitHub</a></li>
@@ -84,7 +84,7 @@ Hi! I am a third-year PhD student at [Tsinghua University](https://www.tsinghua.
   Xiangyang Wang\*, **Bingxiang He**\*<sup>‡</sup>, Zeyuan Liu, Jiaze Wang, Ziqing Qiao, Yuxin Zuo, Tianyu Yu, Qianyu Chen, Huan-ang Gao, Cheng Qian, Wenbin Zhang, Ran Li, Youbang Sun, Ning Ding, Yuanchun Shi, Zhiyuan Liu, Chaojun Xiao<sup>‡</sup>, Chun Yu<sup>‡</sup><br>
   *Preprint* [[GitHub]](https://github.com/thunlp/DRM) [[HF Model]](https://huggingface.co/Teburile/DRM)
 
-  <small>▸[[HF Paper]](https://huggingface.co/papers/2609.33803) · [[32k+ views on X]](https://x.com/HBX_hbx/status/2104779296640467452) · Featured by [OpenBMB](https://x.com/OpenBMB/status/2105281510928458150), [TsinghuaNLP](https://mp.weixin.qq.com/s/zsCju7erDq7clxlRubSwDg), [OpenBMB](https://mp.weixin.qq.com/s/bsaWsCvD8RvftjlpAbVtKg), [QingKeAI](https://mp.weixin.qq.com/s/nJIVmDqZv3MOzDa1ievetw) · [Zhihu](https://zhuanlan.zhihu.com/p/2088694902305640688)</small>
+  <small>▸[[HF Paper]](https://huggingface.co/papers/2609.33803) · [[32k+ views on X]](https://x.com/HBX_hbx/status/2104779296640467452) · Featured by [OpenBMB](https://x.com/OpenBMB/status/2105281510928458150) (X), [TsinghuaNLP](https://mp.weixin.qq.com/s/zsCju7erDq7clxlRubSwDg), [OpenBMB](https://mp.weixin.qq.com/s/bsaWsCvD8RvftjlpAbVtKg), [QingKeAI](https://mp.weixin.qq.com/s/nJIVmDqZv3MOzDa1ievetw) · [Zhihu](https://zhuanlan.zhihu.com/p/2088694902305640688)</small>
 
 - [Rethinking On-Policy Distillation of Large Language Models II: One Training Example](https://arxiv.org/pdf/2609.04172)<br>
   Zixuan Fu\*, **Bingxiang He**\*<sup>†‡</sup>, Yuxin Zuo\*<sup>†</sup>, Haohuan Huang\*, Jinqian Zhang, Ruhang Xiao, Cheng Qian, Qinyu Luo, Huan-ang Gao, Yudong Wang, Zhiyuan Liu, Ning Ding<sup>‡</sup>, Chaojun Xiao<sup>‡</sup><br>
