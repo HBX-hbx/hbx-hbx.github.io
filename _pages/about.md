@@ -42,6 +42,8 @@ Hi! I am a third-year PhD student at [Tsinghua University](https://www.tsinghua.
   .news-list li { padding: 0.12rem 0; }
 </style>
 <ul class="news-list" aria-label="Recent news">
+  <li><em>2026.09</em>: &nbsp;🎉 Attending <a href="https://2026.emnlp.org/">EMNLP 2026</a> in Budapest, Hungary — let's chat!</li>
+  <li><em>2026.09</em>: &nbsp;🔥 <a href="https://arxiv.org/pdf/2609.33803">Diffusion Reward Models</a> released at arXiv <a href="https://github.com/thunlp/DRM">GitHub</a></li>
   <li><em>2026.09</em>: &nbsp;🔥 <a href="https://arxiv.org/pdf/2609.04172">Rethinking OPD II: One-Shot OPD</a> released at arXiv <a href="https://github.com/Thinking-Space/One-Shot-OPD">GitHub</a></li>
   <li><em>2026.09</em>: &nbsp;🎉 <a href="https://arxiv.org/pdf/2609.00787">StudyBench</a> released at arXiv and accepted by EMNLP 2026 <a href="https://github.com/thunlp/StudyBench">GitHub</a></li>
   <li><em>2026.08</em>: &nbsp;🎉 <a href="https://arxiv.org/pdf/2608.14441">PACE-Bench</a> released at arXiv and accepted by EMNLP 2026 <a href="https://github.com/thunlp/PACE-Bench">GitHub</a></li>
@@ -76,13 +78,19 @@ Hi! I am a third-year PhD student at [Tsinghua University](https://www.tsinghua.
 
 (* denotes equal/core contribution, <sup>†</sup> denotes project lead, <sup>‡</sup> indicates corresponding author.)
 
-[Google Scholar](https://scholar.google.com/citations?user=mb36VikAAAAJ) · **2800+ citations**
+[Google Scholar](https://scholar.google.com/citations?user=mb36VikAAAAJ) · **3000+ citations**
+
+- [Diffusion Reward Models](https://arxiv.org/pdf/2609.33803)<br>
+  Xiangyang Wang\*, **Bingxiang He**\*<sup>‡</sup>, Zeyuan Liu, Jiaze Wang, Ziqing Qiao, Yuxin Zuo, Tianyu Yu, Qianyu Chen, Huan-ang Gao, Cheng Qian, Wenbin Zhang, Ran Li, Youbang Sun, Ning Ding, Yuanchun Shi, Zhiyuan Liu, Chaojun Xiao<sup>‡</sup>, Chun Yu<sup>‡</sup><br>
+  *Preprint* [[GitHub]](https://github.com/thunlp/DRM) [[HF Model]](https://huggingface.co/Teburile/DRM)
+
+  <small>▸[[HF Paper]](https://huggingface.co/papers/2609.33803) · [[32k+ views on X]](https://x.com/HBX_hbx/status/2104779296640467452) · Featured by [OpenBMB](https://x.com/OpenBMB/status/2105281510928458150), [TsinghuaNLP](https://mp.weixin.qq.com/s/zsCju7erDq7clxlRubSwDg), [OpenBMB](https://mp.weixin.qq.com/s/bsaWsCvD8RvftjlpAbVtKg), [QingKeAI](https://mp.weixin.qq.com/s/nJIVmDqZv3MOzDa1ievetw) · [Zhihu](https://zhuanlan.zhihu.com/p/2088694902305640688)</small>
 
 - [Rethinking On-Policy Distillation of Large Language Models II: One Training Example](https://arxiv.org/pdf/2609.04172)<br>
   Zixuan Fu\*, **Bingxiang He**\*<sup>†‡</sup>, Yuxin Zuo\*<sup>†</sup>, Haohuan Huang\*, Jinqian Zhang, Ruhang Xiao, Cheng Qian, Qinyu Luo, Huan-ang Gao, Yudong Wang, Zhiyuan Liu, Ning Ding<sup>‡</sup>, Chaojun Xiao<sup>‡</sup><br>
-  *Preprint* [[GitHub 85+ Stars]](https://github.com/Thinking-Space/One-Shot-OPD)
+  *Preprint* [[GitHub 95+ Stars]](https://github.com/Thinking-Space/One-Shot-OPD)
 
-  <small>▸[[100+ upvotes on HF Daily Papers]](https://huggingface.co/papers/2609.04172) · [[19.4k+ views on X]](https://x.com/HBX_hbx/status/2095716853196747175) · Featured by [alphaXiv](https://x.com/askalphaxiv/status/2096250248423231596), [Zen with AI](https://x.com/Zen_with_AI/status/2096272166174269895), [TuringPost](https://x.com/TheTuringPost/status/2097624353076658179), [Andriy Burkov](https://x.com/burkov/status/2096384426313957483), [HuggingPapers](https://x.com/HuggingPapers/status/2096088806126489776), [QingKeAI](https://mp.weixin.qq.com/s/4Dpb8qQ3rouHO4o2ptR6NA), [Synced](https://mp.weixin.qq.com/s/7wS7MTUoPni_yyMx3mja-g), [Zhihu](https://zhuanlan.zhihu.com/p/2079700159114507443)</small>
+  <small>▸[[100+ upvotes on HF Daily Papers]](https://huggingface.co/papers/2609.04172) · [[19.4k+ views on X]](https://x.com/HBX_hbx/status/2095716853196747175) · Featured by [alphaXiv](https://x.com/askalphaxiv/status/2096250248423231596), [Zen with AI](https://x.com/Zen_with_AI/status/2096272166174269895), [TuringPost](https://x.com/TheTuringPost/status/2097624353076658179), [Andriy Burkov](https://x.com/burkov/status/2096384426313957483), [HuggingPapers](https://x.com/HuggingPapers/status/2096088806126489776), [QingKeAI](https://mp.weixin.qq.com/s/4Dpb8qQ3rouHO4o2ptR6NA), [Synced](https://mp.weixin.qq.com/s/7wS7MTUoPni_yyMx3mja-g), [Zhihu](https://zhuanlan.zhihu.com/p/2079700159114507443), [TsinghuaNLP](https://mp.weixin.qq.com/s/ZcAZ8QL_QTIAxUepKaEpSA), [OpenBMB](https://mp.weixin.qq.com/s/eChkqqtdmg1lRIz1I95kbA)</small>
 
 - [PACE-Bench: Benchmarking Physics Adaptation via Code Evolution in Dynamic Environments](https://arxiv.org/pdf/2608.14441)<br>
   Yuhao Zhan\*, **Bingxiang He**\*, Zecong Tang, Chaojun Xiao<sup>‡</sup><br>
@@ -114,7 +122,7 @@ Hi! I am a third-year PhD student at [Tsinghua University](https://www.tsinghua.
 - [JustRL: Scaling a 1.5B LLM with a Simple RL Recipe](https://arxiv.org/pdf/2512.16649)<br>
   **Bingxiang He**, Zekai Qu, Zeyuan Liu, Yinghao Chen, Yuxin Zuo, Cheng Qian, Kaiyan Zhang, Weize Chen, Chaojun Xiao, Ganqu Cui, Ning Ding<sup>‡</sup>, Zhiyuan Liu<sup>‡</sup><br>
   *ICLR 2026 Blog* [[Blog]](https://www.notion.so/JustRL-Scaling-a-1-5B-LLM-with-a-Simple-RL-Recipe-24f6198b0b6b80e48e74f519bfdaf0a8) [[GitHub 300+ Stars]](https://github.com/thunlp/JustRL)<br>
-  <small>▸ [25k+ HF downloads](https://huggingface.co/collections/hbx/justrl) · Adopted by [ModelBest (MiniCPM5)](https://github.com/OpenBMB/MiniCPM/tree/minicpm5#what-does-rl--opd-bring) · [42k+ views on X](https://x.com/HBX_hbx/status/1988474153436090776) · [100k+ views on Zhihu](https://www.zhihu.com/question/1987478921730613767) · Featured by [alphaXiv](https://x.com/askalphaxiv/status/2003196659426316294), [DAIR.AI](https://x.com/dair_ai/status/2004235730613371251), [Zhihu Frontier](https://x.com/ZhihuFrontier/status/2098362348029477077), [Synced](https://mp.weixin.qq.com/s/F4zvQfWusb-QetDi-ReErg), [TsinghuaNLP](https://mp.weixin.qq.com/s/J-_vndAFQwiWgnyS0AW4xQ), [QingKeAI](https://mp.weixin.qq.com/s/Ya6QHWQ5HKo-8XngAg3a7g)<br>▸ Follow-up work JustRL v2 promoted on X: [25.3k+ views](https://x.com/HBX_hbx/status/2097249861355933879), [OpenBMB](https://x.com/OpenBMB/status/2097308982071431543) (8.9k+), [sheriyuo](https://x.com/sheriyuo/status/2097274116843905353) (5.7k+), [Zhihu Frontier](https://x.com/ZhihuFrontier/status/2098365535033684278) (3.2k+)</small>
+  <small>▸ [30k+ HF downloads](https://huggingface.co/collections/hbx/justrl) · Adopted by [ModelBest (MiniCPM5)](https://github.com/OpenBMB/MiniCPM/tree/minicpm5#what-does-rl--opd-bring) · [64k+ views on X](https://x.com/HBX_hbx/status/1988474153436090776) · [100k+ views on Zhihu](https://www.zhihu.com/question/1987478921730613767) · Featured by [alphaXiv](https://x.com/askalphaxiv/status/2003196659426316294), [DAIR.AI](https://x.com/dair_ai/status/2004235730613371251), [Zhihu Frontier](https://x.com/ZhihuFrontier/status/2098362348029477077), [Synced](https://mp.weixin.qq.com/s/F4zvQfWusb-QetDi-ReErg), [TsinghuaNLP](https://mp.weixin.qq.com/s/J-_vndAFQwiWgnyS0AW4xQ), [QingKeAI](https://mp.weixin.qq.com/s/Ya6QHWQ5HKo-8XngAg3a7g)<br>▸ Follow-up work JustRL v2 promoted on X: [26k+ views](https://x.com/HBX_hbx/status/2097249861355933879), [OpenBMB](https://x.com/OpenBMB/status/2097308982071431543) (8.9k+), [sheriyuo](https://x.com/sheriyuo/status/2097274116843905353) (5.7k+), [Zhihu Frontier](https://x.com/ZhihuFrontier/status/2098365535033684278) (3.2k+)</small>
 
 - [MiniCPM-V 4.5: Cooking Efficient MLLMs via Architecture, Data, and Training Recipe](https://arxiv.org/pdf/2509.18154)<br>
   MiniCPM-V Team <br>
@@ -187,8 +195,8 @@ Hi! I am a third-year PhD student at [Tsinghua University](https://www.tsinghua.
 - *2026.03 - present*, [ModelBest (面壁智能)](https://www.modelbest.cn/), Beijing. Research Intern, Forward-Four Program (前进四计划). Working with [Postdoc Chaojun Xiao](https://xcjthu.github.io/). 
   - Post-training of the MiniCPM4 & MiniCPM5 series: SFT, RL, and on-policy distillation (OPD).
   - **AutoSFT**: a coding-agent that autonomously searches SFT data recipes; the SFT data engine of the pipeline.
-  - **RL**: a minimal, stable RL recipe landed as MiniCPM5's math & reasoning RL; diagnosing and fixing training collapse.
-  - **OPD**: co-developed the OPD recipe, integrated into MiniCPM5 as the cross-domain model-merging mechanism.
+  - **RL**: a minimal, stable RL recipe landed as MiniCPM5's math & reasoning RL; diagnosing and fixing training collapse. [[JustRL I](https://arxiv.org/pdf/2512.16649), [JustRL II](https://x.com/HBX_hbx/status/2097249861355933879)]
+  - **OPD**: co-developed the OPD recipe, integrated into MiniCPM5 as the cross-domain model-merging mechanism. [[Rethinking OPD I](https://arxiv.org/pdf/2604.13016), [Rethinking OPD II](https://arxiv.org/pdf/2609.04172)]
 
 <span class='anchor' id='honors-and-awards'></span>
 
