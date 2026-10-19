@@ -42,6 +42,8 @@ Hi! I am a third-year PhD student at [Tsinghua University](https://www.tsinghua.
   .news-list li { padding: 0.12rem 0; }
 </style>
 <ul class="news-list" aria-label="Recent news">
+  <li><em>2026.10</em>: &nbsp;🔥 <a href="https://arxiv.org/pdf/2610.22194">AutoSFT</a> released at arXiv <a href="https://github.com/Thinking-Space/AutoSFT">GitHub</a></li>
+  <li><em>2026.10</em>: &nbsp;🎉 <a href="https://arxiv.org/pdf/2604.13016">Rethinking OPD I</a> accepted by TMLR <a href="https://github.com/Thinking-Space/Rethinking-OPD">GitHub</a></li>
   <li><em>2026.10</em>: &nbsp;🎉 Attending <a href="https://2026.emnlp.org/">EMNLP 2026</a> in Budapest, Hungary — let's chat!</li>
   <li><em>2026.09</em>: &nbsp;🔥 <a href="https://arxiv.org/pdf/2609.33803">Diffusion Reward Models</a> released at arXiv <a href="https://github.com/thunlp/DRM">GitHub</a></li>
   <li><em>2026.09</em>: &nbsp;🔥 <a href="https://arxiv.org/pdf/2609.04172">Rethinking OPD II: One-Shot OPD</a> released at arXiv <a href="https://github.com/Thinking-Space/One-Shot-OPD">GitHub</a></li>
@@ -80,6 +82,12 @@ Hi! I am a third-year PhD student at [Tsinghua University](https://www.tsinghua.
 
 [Google Scholar](https://scholar.google.com/citations?user=mb36VikAAAAJ) · **3000+ citations**
 
+- [AutoSFT: An Agentic System for Automated Data Research in Supervised Fine-Tuning](https://arxiv.org/pdf/2610.22194)<br>
+  **Bingxiang He**\*<sup>†</sup>, Pengqi Sun\*, Shihao Peng\*, Shaoxuan Li\*, Huiyu Xiao\*, Hongjian Shi\*, Zixuan Fu\*, Ziqing Qiao\*, Yuxin Zuo\*<sup>†</sup>, Cheng Qian, Xinqiang Yu, Jiayi Li, Xiusi Chen, Yizhen Song, Xiangyang Wang, Iofai Lei, Yudong Wang, Ning Ding, Zhiyuan Liu, Xiaozhi Wang<sup>‡</sup>, Chaojun Xiao<sup>‡</sup><br>
+  *Preprint* [[GitHub]](https://github.com/Thinking-Space/AutoSFT)
+
+  <small>▸[[HF Daily Paper]](https://huggingface.co/papers/2610.22194) · [[Thread on X]](https://x.com/HBX_hbx/status/2110969562271482355) · [[RSI AMA]](https://mp.weixin.qq.com/s/SHkc56Njy1XbmxvzznFR-w)</small>
+
 - [Diffusion Reward Models](https://arxiv.org/pdf/2609.33803)<br>
   Xiangyang Wang\*, **Bingxiang He**\*<sup>‡</sup>, Zeyuan Liu, Jiaze Wang, Ziqing Qiao, Yuxin Zuo, Tianyu Yu, Qianyu Chen, Huan-ang Gao, Cheng Qian, Wenbin Zhang, Ran Li, Youbang Sun, Ning Ding, Yuanchun Shi, Zhiyuan Liu, Chaojun Xiao<sup>‡</sup>, Chun Yu<sup>‡</sup><br>
   *Preprint* [[GitHub]](https://github.com/thunlp/DRM) [[HF Model]](https://huggingface.co/Teburile/DRM)
@@ -111,7 +119,7 @@ Hi! I am a third-year PhD student at [Tsinghua University](https://www.tsinghua.
 
 - [Rethinking On-Policy Distillation of Large Language Models: Phenomenology, Mechanism, and Recipe](https://arxiv.org/pdf/2604.13016)<br>
   Yaxuan Li\*, Yuxin Zuo\*<sup>†</sup>, **Bingxiang He**\*<sup>†</sup>, Jinqian Zhang, Chaojun Xiao<sup>‡</sup>, Cheng Qian, Tianyu Yu, Huan-ang Gao, Wenkai Yang, Zhiyuan Liu<sup>‡</sup>, Ning Ding<sup>‡</sup><br>
-  *ICML 2026 FoGen Workshop* [[GitHub 1k+ Stars](https://github.com/Thinking-Space/Rethinking-OPD)]<br>
+  *TMLR / ICML 2026 FoGen Workshop* [[GitHub 1k+ Stars](https://github.com/Thinking-Space/Rethinking-OPD)]<br>
   <small>▸ Adopted by [ModelBest (MiniCPM5)](https://github.com/OpenBMB/MiniCPM/tree/minicpm5#what-does-rl--opd-bring) and [ByteDance Seed's veRL](https://github.com/verl-project/verl/pull/6469) · [#1 on HF Daily Papers](https://huggingface.co/papers/2604.13016) · [19k+ views on X](https://x.com/HBX_hbx/status/2044464414829777354) · Featured by [AK](https://x.com/_akhaliq/status/2044444138582466652), [TuringPost](https://x.com/TheTuringPost/status/2046710304999104954), [QingKeAI](https://mp.weixin.qq.com/s/kBPunQnTnp2GEU3DbZRYGQ), [Synced](https://mp.weixin.qq.com/s/uUGZc2sireEyCJg8Q200aw), [OpenBMB](https://mp.weixin.qq.com/s/x32CJozGUhl9RKm0BiaciA), [TsinghuaNLP](https://mp.weixin.qq.com/s/vbt3JkS782byAzYPhC7NRw)</small>
 
 - [How Far Can Unsupervised RLVR Scale LLM Training?](https://arxiv.org/pdf/2603.08660)<br>
@@ -194,7 +202,7 @@ Hi! I am a third-year PhD student at [Tsinghua University](https://www.tsinghua.
 
 - *2026.03 - present*, [ModelBest (面壁智能)](https://www.modelbest.cn/), Beijing. Research Intern, Forward-Four Program (前进四计划). Working with [Postdoc Chaojun Xiao](https://xcjthu.github.io/). 
   - Post-training of the MiniCPM4 & MiniCPM5 series: SFT, RL, and on-policy distillation (OPD).
-  - **AutoSFT**: a coding-agent that autonomously searches SFT data recipes; the SFT data engine of the pipeline.
+  - **AutoSFT**: a coding-agent that autonomously searches SFT data recipes; the SFT data engine of the pipeline. [[AutoSFT](https://arxiv.org/pdf/2610.22194)]
   - **RL**: a minimal, stable RL recipe landed as MiniCPM5's math & reasoning RL; diagnosing and fixing training collapse. [[JustRL I](https://arxiv.org/pdf/2512.16649), [JustRL II](https://x.com/HBX_hbx/status/2097249861355933879)]
   - **OPD**: co-developed the OPD recipe, integrated into MiniCPM5 as the cross-domain model-merging mechanism. [[Rethinking OPD I](https://arxiv.org/pdf/2604.13016), [Rethinking OPD II](https://arxiv.org/pdf/2609.04172)]
 
@@ -217,6 +225,7 @@ Hi! I am a third-year PhD student at [Tsinghua University](https://www.tsinghua.
 
 # 💬 Invited Talks
 
+- AMA (Ask Me Anything) on RSI as the host, related to [AutoSFT](https://arxiv.org/pdf/2610.22194). [QingKeAI](https://mp.weixin.qq.com/s/SHkc56Njy1XbmxvzznFR-w). *2026.10*
 - Rethinking OPD [I](https://arxiv.org/pdf/2604.13016) & [II](https://arxiv.org/pdf/2609.04172). [QingKeAI](https://qingkeai.online/blog/Rethinking-OPD-talk). [BAAI](https://mp.weixin.qq.com/s/VTTcJRDHWppqB1-WW4TAkg). [Shanghai AI Lab](https://www.xiaohongshu.com/explore/6ab4f79e0000000013018eec). [DINQ Session 1](https://mp.weixin.qq.com/s/zwCWTr1TM99UofaHRMaHVw) ([recap](https://mp.weixin.qq.com/s/duzfHjwMtX4OMXRa4D3seA)). *2026.09*
 - [Rethinking OPD II: One-Shot OPD](https://arxiv.org/pdf/2609.04172). Paper walk-through on [YouTube](https://www.youtube.com/watch?v=gR-wGiTBd58). Featured by [Kian Kyars](https://x.com/neuralkian/status/2096467880909111300). *2026.08*
 - [Rethinking OPD I](https://arxiv.org/pdf/2604.13016). Paper walk-through on [YouTube](https://www.youtube.com/watch?v=i7TqHMHlKQ0). Featured by [Kian Kyars](https://x.com/neuralkian/status/2091238980184392135). *2026.08*
