@@ -43,8 +43,8 @@ Hi! I am a third-year PhD student at [Tsinghua University](https://www.tsinghua.
 </style>
 <ul class="news-list" aria-label="Recent news">
   <li><em>2026.10</em>: &nbsp;📣 <a href="https://thinking-space.github.io/AutoRLBench/">AutoRLBench</a> is calling for contributions — a benchmark built from real RL training failures</li>
-  <li><em>2026.10</em>: &nbsp;🎉 <a href="https://arxiv.org/pdf/2610.25749">CoDI</a> accepted by EMNLP 2026 as <strong>Oral</strong> with <strong>SAC Highlight Award</strong> <a href="https://github.com/Yuqian-Wang2277/codi-meta-induction">GitHub</a></li>
-  <li><em>2026.10</em>: &nbsp;🎉 Selected for the CAST Young Scientific and Technological Talent Development Program (2026年度中国科协青年科技人才培育工程博士生专项计划)</li>
+  <li><em>2026.10</em>: &nbsp;🎉 <a href="https://arxiv.org/pdf/2610.25749">CoDI</a> accepted by EMNLP 2026 as <strong>Oral</strong> with <strong>SAC Highlight Award</strong></li>
+  <li><em>2026.10</em>: &nbsp;🎉 Selected for the CAST Young Scientific and Technological Talent Development Program (中国科协青年科技人才培育工程博士生专项计划)</li>
   <li><em>2026.10</em>: &nbsp;🔥 <a href="https://arxiv.org/pdf/2610.22194">AutoSFT</a> released at arXiv <a href="https://github.com/Thinking-Space/AutoSFT">GitHub</a></li>
   <li><em>2026.10</em>: &nbsp;🎉 <a href="https://arxiv.org/pdf/2604.13016">Rethinking OPD I</a> accepted by TMLR <a href="https://github.com/Thinking-Space/Rethinking-OPD">GitHub</a></li>
   <li><em>2026.10</em>: &nbsp;🎉 Attending <a href="https://2026.emnlp.org/">EMNLP 2026</a> in Budapest, Hungary — let's chat!</li>
@@ -217,7 +217,7 @@ Hi! I am a third-year PhD student at [Tsinghua University](https://www.tsinghua.
 
 # 🎖 Honors and Awards
 * EMNLP 2026 SAC Highlight Award for [CoDI](https://arxiv.org/pdf/2610.25749) (Oral). *2026.10*
-* CAST Young Scientific and Technological Talent Development Program (2026年度中国科协青年科技人才培育工程博士生专项计划). *2026.10*
+* CAST Young Scientific and Technological Talent Development Program (中国科协青年科技人才培育工程博士生专项计划). *2026.10*
 * CIE-Tencent Doctoral Research Incentive Project ([CIE](https://www.cie.org.cn/list_43/16649.html); [THUNLP](https://mp.weixin.qq.com/s/dy9IjlakI7vpFltGhu6llg); 中国电子学会-腾讯大模型博士生科研激励计划, 44 Recipients Nationwide, ¥100,000 Grant). *2026.07*
 * Qingyuan InnoVibe 2026 (青源最受瞩目学术新星, 25 Winners Nationwide), [BAAI](https://mp.weixin.qq.com/s/VwzvuyToY79B2DtWmenjVQ), [THUNLP](https://mp.weixin.qq.com/s/mhkVUCZw8eGlc6glxuIudQ). *2026.06*
 * ICML 2026 Gold Reviewer (Top 25%). *2026.05*
