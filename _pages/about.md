@@ -42,6 +42,9 @@ Hi! I am a third-year PhD student at [Tsinghua University](https://www.tsinghua.
   .news-list li { padding: 0.12rem 0; }
 </style>
 <ul class="news-list" aria-label="Recent news">
+  <li><em>2026.10</em>: &nbsp;📣 <a href="https://thinking-space.github.io/AutoRLBench/">AutoRLBench</a> is calling for contributions — a benchmark built from real RL training failures</li>
+  <li><em>2026.10</em>: &nbsp;🎉 <a href="https://arxiv.org/pdf/2610.25749">CoDI</a> accepted by EMNLP 2026 as <strong>Oral</strong> with <strong>SAC Highlight Award</strong> <a href="https://github.com/Yuqian-Wang2277/codi-meta-induction">GitHub</a></li>
+  <li><em>2026.10</em>: &nbsp;🎉 Selected for the CAST Young Scientific and Technological Talent Development Program (2026年度中国科协青年科技人才培育工程博士生专项计划)</li>
   <li><em>2026.10</em>: &nbsp;🔥 <a href="https://arxiv.org/pdf/2610.22194">AutoSFT</a> released at arXiv <a href="https://github.com/Thinking-Space/AutoSFT">GitHub</a></li>
   <li><em>2026.10</em>: &nbsp;🎉 <a href="https://arxiv.org/pdf/2604.13016">Rethinking OPD I</a> accepted by TMLR <a href="https://github.com/Thinking-Space/Rethinking-OPD">GitHub</a></li>
   <li><em>2026.10</em>: &nbsp;🎉 Attending <a href="https://2026.emnlp.org/">EMNLP 2026</a> in Budapest, Hungary — let's chat!</li>
@@ -80,13 +83,17 @@ Hi! I am a third-year PhD student at [Tsinghua University](https://www.tsinghua.
 
 (* denotes equal/core contribution, <sup>†</sup> denotes project lead, <sup>‡</sup> indicates corresponding author.)
 
-[Google Scholar](https://scholar.google.com/citations?user=mb36VikAAAAJ) · **3000+ citations**
+[Google Scholar](https://scholar.google.com/citations?user=mb36VikAAAAJ) · **3200+ citations**
+
+- [Cognitively Decoupled Meta-Induction for Out-of-Distribution Generalization](https://arxiv.org/pdf/2610.25749)<br>
+  Yuqian Wang, Yuanzheng Wang, Chaojun Xiao<sup>‡</sup>, Ke Xu, **Bingxiang He**, Jinghan Tan, Zijun Chen, Lu Chen<sup>‡</sup>, Yi-Xin Huo, Maosong Sun<sup>‡</sup><br>
+  *EMNLP 2026 **Oral**, SAC Highlight Award* [[GitHub]](https://github.com/Yuqian-Wang2277/codi-meta-induction)
 
 - [AutoSFT: An Agentic System for Automated Data Research in Supervised Fine-Tuning](https://arxiv.org/pdf/2610.22194)<br>
   **Bingxiang He**\*<sup>†</sup>, Pengqi Sun\*, Shihao Peng\*, Shaoxuan Li\*, Huiyu Xiao\*, Hongjian Shi\*, Zixuan Fu\*, Ziqing Qiao\*, Yuxin Zuo\*<sup>†</sup>, Cheng Qian, Xinqiang Yu, Jiayi Li, Xiusi Chen, Yizhen Song, Xiangyang Wang, Iofai Lei, Yudong Wang, Ning Ding, Zhiyuan Liu, Xiaozhi Wang<sup>‡</sup>, Chaojun Xiao<sup>‡</sup><br>
   *Preprint* [[GitHub]](https://github.com/Thinking-Space/AutoSFT)
 
-  <small>▸[[HF Daily Paper]](https://huggingface.co/papers/2610.22194) · [[Thread on X]](https://x.com/HBX_hbx/status/2110969562271482355) · [[RSI AMA]](https://mp.weixin.qq.com/s/SHkc56Njy1XbmxvzznFR-w)</small>
+  <small>▸[[HF Daily Paper]](https://huggingface.co/papers/2610.22194) · [[Thread on X]](https://x.com/HBX_hbx/status/2110969562271482355) · [[RSI AMA]](https://mp.weixin.qq.com/s/SHkc56Njy1XbmxvzznFR-w) · Featured by [TsinghuaNLP](https://mp.weixin.qq.com/s/Aa8nNq0QWXK0sLFmd4E6IA)</small>
 
 - [Diffusion Reward Models](https://arxiv.org/pdf/2609.33803)<br>
   Xiangyang Wang\*, **Bingxiang He**\*<sup>‡</sup>, Zeyuan Liu, Jiaze Wang, Ziqing Qiao, Yuxin Zuo, Tianyu Yu, Qianyu Chen, Huan-ang Gao, Cheng Qian, Wenbin Zhang, Ran Li, Youbang Sun, Ning Ding, Yuanchun Shi, Zhiyuan Liu, Chaojun Xiao<sup>‡</sup>, Chun Yu<sup>‡</sup><br>
@@ -209,6 +216,8 @@ Hi! I am a third-year PhD student at [Tsinghua University](https://www.tsinghua.
 <span class='anchor' id='honors-and-awards'></span>
 
 # 🎖 Honors and Awards
+* EMNLP 2026 SAC Highlight Award for [CoDI](https://arxiv.org/pdf/2610.25749) (Oral). *2026.10*
+* CAST Young Scientific and Technological Talent Development Program (2026年度中国科协青年科技人才培育工程博士生专项计划). *2026.10*
 * CIE-Tencent Doctoral Research Incentive Project ([CIE](https://www.cie.org.cn/list_43/16649.html); [THUNLP](https://mp.weixin.qq.com/s/dy9IjlakI7vpFltGhu6llg); 中国电子学会-腾讯大模型博士生科研激励计划, 44 Recipients Nationwide, ¥100,000 Grant). *2026.07*
 * Qingyuan InnoVibe 2026 (青源最受瞩目学术新星, 25 Winners Nationwide), [BAAI](https://mp.weixin.qq.com/s/VwzvuyToY79B2DtWmenjVQ), [THUNLP](https://mp.weixin.qq.com/s/mhkVUCZw8eGlc6glxuIudQ). *2026.06*
 * ICML 2026 Gold Reviewer (Top 25%). *2026.05*
